@@ -1,5 +1,15 @@
 
 
+<!-- LEARNING-NOTES:START -->
+
+## 學習筆記
+
+[The penalty depends on the type of foul.](./notes/entries/2026-07-12-the-penalty-depends-on-the-type-of-foul-n1.md) - 2026-07-12
+
+[查看全部學習筆記](./notes/README.md)
+
+<!-- LEARNING-NOTES:END -->
+
 <!-- TMQ:START -->
 
 ## TMQ — Today My Question
