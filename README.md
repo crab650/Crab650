@@ -4,7 +4,7 @@
 
 ## 學習筆記
 
-[The penalty depends on the type of foul.](./notes/entries/english/2026-07-12-the-penalty-depends-on-the-type-of-foul-n1.md) - 2026-07-12
+[The penalty depends on the type of foul.](./notes/entries/english/2026-07-13-the-penalty-depends-on-the-type-of-foul-n1.md) - 2026-07-13
 
 [查看全部學習筆記](./notes/README.md)
 
@@ -13,6 +13,12 @@
 <!-- TMQ:START -->
 
 ## TMQ — Today My Question
+
+[訂價作業是什麼](./tmq/questions/2026-07-13-訂價作業是什麼-q8.md) - 2026-07-13
+
+[報價單自動轉成預開發票 ， 這是為什麼？](./tmq/questions/2026-07-13-報價單自動轉成預開發票-這是為什麼-q1.md) - 2026-07-13
+
+[預開發票自動轉成銷貨訂單？ 這又是什麼流程？](./tmq/questions/2026-07-13-預開發票自動轉成銷貨訂單-這又是什麼流程-q2.md) - 2026-07-13
 
 [銷貨訂單自動轉成出貨單 ， 出貨單自動產生發票](./tmq/questions/2026-07-12-銷貨訂單自動轉成出貨單-出貨單自動產生發票-q3.md) - 2026-07-12
 
