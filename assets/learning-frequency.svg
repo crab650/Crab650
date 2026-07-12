@@ -34,7 +34,7 @@
 <rect x="333" y="76" width="26" height="26" rx="4" fill="#40c463" stroke="none" stroke-width="1"/>
 <text class="small" x="346.0" y="118" text-anchor="middle">12</text>
 <text class="small" x="346.0" y="133" text-anchor="middle">Sun</text>
-<rect x="366" y="76" width="26" height="26" rx="4" fill="#9be9a8" stroke="#f2cc60" stroke-width="2"/>
+<rect x="366" y="76" width="26" height="26" rx="4" fill="#40c463" stroke="#f2cc60" stroke-width="2"/>
 <text class="small" x="379.0" y="118" text-anchor="middle">13</text>
 <text class="small" x="379.0" y="133" text-anchor="middle">Mon</text>
 <rect x="399" y="76" width="26" height="26" rx="4" fill="none" stroke="#484f58" stroke-width="1"/>

@@ -14,6 +14,8 @@
 
 ## TIL — Today I Learned
 
+[ABusiness English(About Price) Notes](./notes/entries/english/2026-07-13-abusiness-english-about-price-notes-n2.md) - 2026-07-13
+
 [The penalty depends on the type of foul.](./notes/entries/english/2026-07-13-the-penalty-depends-on-the-type-of-foul-n1.md) - 2026-07-13
 
 [查看全部學習筆記](./notes/README.md)
