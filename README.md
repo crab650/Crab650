@@ -32,14 +32,23 @@
 
 | 語言 | 練習次數 | 不同句子 | 答對 | 答錯 | 播音 | 看答案 |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| English | 5 | 4 | 4 | 1 | 4 | 0 |
-| Tiếng Việt | 9 | 4 | 7 | 2 | 6 | 7 |
+| English | 9 | 7 | 8 | 1 | 11 | 0 |
+| Tiếng Việt | 10 | 5 | 8 | 2 | 7 | 7 |
 
 ### English
 
+- **Please accept our sincere apology.**
+  - 請接受我們誠摯的道歉。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
+- **We regret the inconvenience caused.**
+  - 我們對造成的不便深感遺憾。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
+- **I apologize for the mistake.**
+  - 我為這個錯誤道歉。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
 - **We sincerely apologize for the inconvenience.**
   - 我們誠摯地為造成您的不便道歉。
-  - 練習 2 次｜答對 1｜答錯 1｜播音 2 次
+  - 練習 3 次｜答對 2｜答錯 1｜播音 3 次
 - **The doctor is writing a prescription.**
   - 醫生正在開處方箋。
   - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
@@ -52,6 +61,9 @@
 
 ### Tiếng Việt（越文）
 
+- **Xin chào, bạn khỏe không?**
+  - 你好，你好嗎？
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
 - **Trộm vía em bé ngủ ngon quá.**
   - 謝天謝地，寶寶睡得真香。
   - 練習 2 次｜答對 1｜答錯 1｜播音 1 次
