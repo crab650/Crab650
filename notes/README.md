@@ -1,4 +1,4 @@
-# 學習筆記
+# TIL — Today I Learned
 
 Personal Learning & Workspace 發布的公開筆記。
 
