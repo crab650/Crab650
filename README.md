@@ -1,14 +1,44 @@
  <!-- LANGUAGE-STUDY:START -->
 
-## 📚 語言學習發布測試
+## 📚 今日語言學習
 
-> 測試時間：2026-07-12 20:42:27（Asia/Bangkok）
+> 學習日期：2026-07-12（Asia/Bangkok）
 
-| 語言 | 測試句子 | 中文 |
-| --- | --- | --- |
-| English | Hello, how are you? | 你好嗎？ |
-| Tiếng Việt | Chào buổi sáng. | 早上好。 |
+| 語言 | 練習次數 | 不同句子 | 答對 | 答錯 | 播音 | 看答案 |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: |
+| English | 5 | 4 | 4 | 1 | 4 | 0 |
+| Tiếng Việt | 9 | 4 | 7 | 2 | 6 | 7 |
 
-✅ 此區塊由 Personal Learning & Workspace 透過 PythonAnywhere SSH 自動發布。
+### English
+
+- **We sincerely apologize for the inconvenience.**
+  - 我們誠摯地為造成您的不便道歉。
+  - 練習 2 次｜答對 1｜答錯 1｜播音 2 次
+- **The doctor is writing a prescription.**
+  - 醫生正在開處方箋。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **I need a prescription.**
+  - 我需要一張處方。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **Smart English Trainer API diagnostic test.**
+  - Smart English Trainer API 對接測試。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 0 次
+
+### Tiếng Việt（越文）
+
+- **Trộm vía em bé ngủ ngon quá.**
+  - 謝天謝地，寶寶睡得真香。
+  - 練習 2 次｜答對 1｜答錯 1｜播音 1 次
+- **Con cứ để mẹ bế cháu cho.**
+  - 你把抱小孩的事交給媽媽吧。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **Đỡ đẻ xong phải kiêng khem cẩn thận.**
+  - 生完小孩後必須小心忌口。
+  - 練習 5 次｜答對 4｜答錯 1｜播音 4 次
+- **Vợ tôi cần được nghỉ ngơi nhiều hơn.**
+  - 我老婆需要多休息。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 0 次
+
+[查看 2026-07-12 完整學習紀錄](./study-log/2026/07/2026-07-12.md)
 
 <!-- LANGUAGE-STUDY:END -->
