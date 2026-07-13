@@ -14,6 +14,8 @@
 
 ## TIL — Today I Learned
 
+[Files-to-Prompt 學習筆記](./notes/entries/ai/2026-07-14-files-to-prompt-學習筆記-n3.md) - 2026-07-14
+
 [ABusiness English(About Price) Notes](./notes/entries/english/2026-07-14-abusiness-english-about-price-notes-n2.md) - 2026-07-14
 
 [The penalty depends on the type of foul.](./notes/entries/english/2026-07-14-the-penalty-depends-on-the-type-of-foul-n1.md) - 2026-07-14

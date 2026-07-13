@@ -2,6 +2,10 @@
 
 Personal Learning & Workspace 發布的公開筆記。
 
+## AI
+
+- [Files-to-Prompt 學習筆記](./entries/ai/2026-07-14-files-to-prompt-學習筆記-n3.md) - 2026-07-14
+
 ## English
 
 - [ABusiness English(About Price) Notes](./entries/english/2026-07-14-abusiness-english-about-price-notes-n2.md) - 2026-07-14
