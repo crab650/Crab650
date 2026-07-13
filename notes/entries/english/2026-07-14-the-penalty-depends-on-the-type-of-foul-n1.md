@@ -2,14 +2,14 @@
 source: personal-learning-workspace
 content_type: note
 source_id: 1
-published_date: 2026-07-13
+published_date: 2026-07-14
 ---
 
 # The penalty depends on the type of foul.
 
 > 分類：English  
 > Tags：多益  
-> 更新日期：2026-07-13
+> 更新日期：2026-07-14
 
 # The penalty depends on the type of foul.
 

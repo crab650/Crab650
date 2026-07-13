@@ -14,9 +14,9 @@
 
 ## TIL — Today I Learned
 
-[ABusiness English(About Price) Notes](./notes/entries/english/2026-07-13-abusiness-english-about-price-notes-n2.md) - 2026-07-13
+[ABusiness English(About Price) Notes](./notes/entries/english/2026-07-14-abusiness-english-about-price-notes-n2.md) - 2026-07-14
 
-[The penalty depends on the type of foul.](./notes/entries/english/2026-07-13-the-penalty-depends-on-the-type-of-foul-n1.md) - 2026-07-13
+[The penalty depends on the type of foul.](./notes/entries/english/2026-07-14-the-penalty-depends-on-the-type-of-foul-n1.md) - 2026-07-14
 
 [查看全部學習筆記](./notes/README.md)
 
@@ -50,7 +50,59 @@
 
 | 語言 | 練習次數 | 不同句子 | 答對 | 答錯 | 播音 | 看答案 |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: |
+| English | 20 | 16 | 17 | 3 | 38 | 0 |
 | Tiếng Việt | 30 | 24 | 27 | 3 | 31 | 0 |
+
+### English
+
+- **Thank you for bringing this issue to our attention.**
+  - 感謝您告知我們這個問題。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 4 次
+- **Could you give me a detailed account of what happened?**
+  - 您可以詳細描述事情的經過嗎？
+  - 練習 1 次｜答對 1｜答錯 0｜播音 5 次
+- **Let's go over what happened step by step.**
+  - 讓我們一步一步回顧事情的經過。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 4 次
+- **What do you think caused this issue?**
+  - 您認為這個問題是什麼原因造成的？
+  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
+- **What exactly is the problem?**
+  - 到底是什麼問題？
+  - 練習 2 次｜答對 1｜答錯 1｜播音 2 次
+- **Could you tell me more about the problem?**
+  - 您可以多告訴我一些這個問題的情況嗎？
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **We are trying to determine the cause.**
+  - 我們正在查明原因。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
+- **We have resolved the problem.**
+  - 我們已經解決了這個問題。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **Our team is working to resolve the issue.**
+  - 我們的團隊正在努力解決這個問題。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 4 次
+- **We will address the issue immediately.**
+  - 我們將立即處理這個問題。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
+- **We found a technical issue.**
+  - 我們發現了一個技術問題。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **There is an issue with your order.**
+  - 您的訂單有一個問題。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
+- **Please accept our sincere apology.**
+  - 請接受我們誠摯的道歉。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **We regret the inconvenience caused.**
+  - 我們對造成的不便深感遺憾。
+  - 練習 3 次｜答對 2｜答錯 1｜播音 1 次
+- **I apologize for the mistake.**
+  - 我為這個錯誤道歉。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **We sincerely apologize for the inconvenience.**
+  - 我們誠摯地為造成您的不便道歉。
+  - 練習 2 次｜答對 1｜答錯 1｜播音 3 次
 
 ### Tiếng Việt（越文）
 
