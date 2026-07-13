@@ -2,14 +2,14 @@
 source: personal-learning-workspace
 content_type: note
 source_id: 2
-published_date: 2026-07-14
+published_date: 2026-07-13
 ---
 
 # ABusiness English(About Price) Notes
 
 > 分類：English  
 > Tags：Tutor ABC  
-> 更新日期：2026-07-14
+> 建立日期：2026-07-13
 
 # Business English Notes
 ## Topic: Prices, Markets, and Industries

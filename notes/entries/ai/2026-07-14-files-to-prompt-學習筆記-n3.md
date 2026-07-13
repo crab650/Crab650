@@ -9,7 +9,7 @@ published_date: 2026-07-14
 
 > 分類：AI  
 > Tags：AI  
-> 更新日期：2026-07-14
+> 建立日期：2026-07-14
 
 # Files-to-Prompt 學習筆記
 
