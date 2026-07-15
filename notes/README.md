@@ -4,6 +4,7 @@ Personal Learning & Workspace 發布的公開筆記。
 
 ## AI
 
+- [AI 專案 "SayIt" , 個人雜記的AI應用](./entries/ai/2026-07-15-ai-專案-sayit-個人雜記的ai應用-n5.md) - 2026-07-15
 - [Files-to-Prompt 學習筆記](./entries/ai/2026-07-14-files-to-prompt-學習筆記-n3.md) - 2026-07-14
 
 ## English

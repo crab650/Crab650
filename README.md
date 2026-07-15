@@ -4,15 +4,17 @@
 
 ## 學習頻率
 
-![學習頻率：2026-07-04 至 2026-07-24](./assets/learning-frequency.svg?v=2026-07-14)
+![學習頻率：2026-07-05 至 2026-07-25](./assets/learning-frequency.svg?v=2026-07-15)
 
-🔥 目前連續學習：3 天　🏆 最長連續：3 天　📚 此區間學習：3 天
+🔥 目前連續學習：4 天　🏆 最長連續：4 天　📚 此區間學習：4 天
 
 <!-- LEARNING-HEATMAP:END -->
 
 <!-- LEARNING-NOTES:START -->
 
 ## TIL — Today I Learned
+
+[AI 專案 "SayIt" , 個人雜記的AI應用](./notes/entries/ai/2026-07-15-ai-專案-sayit-個人雜記的ai應用-n5.md) - 2026-07-15
 
 [Local Data Analytics Platform](./notes/entries/數據分析/2026-07-14-local-data-analytics-platform-n4.md) - 2026-07-14
 
