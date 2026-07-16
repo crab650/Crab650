@@ -4,15 +4,17 @@
 
 ## 學習頻率
 
-![學習頻率：2026-07-05 至 2026-07-25](./assets/learning-frequency.svg?v=2026-07-15)
+![學習頻率：2026-07-07 至 2026-07-27](./assets/learning-frequency.svg?v=2026-07-17)
 
-🔥 目前連續學習：4 天　🏆 最長連續：4 天　📚 此區間學習：4 天
+🔥 目前連續學習：1 天　🏆 最長連續：4 天　📚 此區間學習：5 天
 
 <!-- LEARNING-HEATMAP:END -->
 
 <!-- LEARNING-NOTES:START -->
 
 ## TIL — Today I Learned
+
+[Business Email Writing](./notes/entries/english/2026-07-17-business-email-writing-n6.md) - 2026-07-17
 
 [AI 專案 "SayIt" , 個人雜記的AI應用](./notes/entries/ai/2026-07-15-ai-專案-sayit-個人雜記的ai應用-n5.md) - 2026-07-15
 
@@ -52,128 +54,40 @@
 
 ## 📚 今日語言學習
 
-> 學習日期：2026-07-14（Asia/Bangkok）
+> 學習日期：2026-07-17（Asia/Bangkok）
 
 | 語言 | 練習次數 | 不同句子 | 答對 | 答錯 | 播音 | 看答案 |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| English | 20 | 16 | 17 | 3 | 38 | 0 |
-| Tiếng Việt | 30 | 24 | 27 | 3 | 31 | 0 |
+| English | 2 | 2 | 2 | 0 | 2 | 0 |
+| Tiếng Việt | 5 | 5 | 5 | 0 | 8 | 4 |
 
 ### English
 
-- **Thank you for bringing this issue to our attention.**
-  - 感謝您告知我們這個問題。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 4 次
-- **Could you give me a detailed account of what happened?**
-  - 您可以詳細描述事情的經過嗎？
-  - 練習 1 次｜答對 1｜答錯 0｜播音 5 次
-- **Let's go over what happened step by step.**
-  - 讓我們一步一步回顧事情的經過。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 4 次
-- **What do you think caused this issue?**
-  - 您認為這個問題是什麼原因造成的？
-  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
-- **What exactly is the problem?**
-  - 到底是什麼問題？
-  - 練習 2 次｜答對 1｜答錯 1｜播音 2 次
-- **Could you tell me more about the problem?**
-  - 您可以多告訴我一些這個問題的情況嗎？
+- **2. I have received your email.**
+  - 我已收到您的電子郵件。
   - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **We are trying to determine the cause.**
-  - 我們正在查明原因。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
-- **We have resolved the problem.**
-  - 我們已經解決了這個問題。
+- **1. Please check your inbox.**
+  - 請查看您的收件匣。
   - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **Our team is working to resolve the issue.**
-  - 我們的團隊正在努力解決這個問題。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 4 次
-- **We will address the issue immediately.**
-  - 我們將立即處理這個問題。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **We found a technical issue.**
-  - 我們發現了一個技術問題。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **There is an issue with your order.**
-  - 您的訂單有一個問題。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **Please accept our sincere apology.**
-  - 請接受我們誠摯的道歉。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **We regret the inconvenience caused.**
-  - 我們對造成的不便深感遺憾。
-  - 練習 3 次｜答對 2｜答錯 1｜播音 1 次
-- **I apologize for the mistake.**
-  - 我為這個錯誤道歉。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **We sincerely apologize for the inconvenience.**
-  - 我們誠摯地為造成您的不便道歉。
-  - 練習 2 次｜答對 1｜答錯 1｜播音 3 次
 
 ### Tiếng Việt（越文）
 
-- **Chúc ngủ ngon.**
-  - 晚安/祝好眠。
+- **Nghe đài giúp tôi luyện tiếng Việt.**
+  - 聽廣播幫助我學越南語。
   - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **Chào buổi tối.**
-  - 晚安。
-  - 練習 2 次｜答對 1｜答錯 1｜播音 1 次
-- **Chào buổi sáng.**
-  - 早安。
+- **Tôi đang nghe một chương trình tiếng Việt.**
+  - 我正在聽一個越南語節目。
   - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **Dạ, đúng rồi.**
-  - 是的，對了。
-  - 練習 2 次｜答對 1｜答錯 1｜播音 1 次
-- **Không sao đâu.**
-  - 沒關係。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **Chị trước đi.**
-  - 妳先請。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **Anh trước đi.**
-  - 你先請。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **Để tôi bấm.**
-  - 我來按。
+- **Tôi thích nghe tin tức vào buổi sáng.**
+  - 我喜歡早上聽新聞。
   - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **Quên thẻ rồi.**
-  - 忘記帶卡了。
+- **Tôi thường nghe đài khi đi làm.**
+  - 我上班時常常聽廣播。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
+- **Tôi đang nghe đài.**
+  - 我正在聽廣播。
   - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **Tầng trệt.**
-  - 一樓/地面層。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **Tầng mười hai.**
-  - 十二樓。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **Tầng một.**
-  - 一樓。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **Tầng hầm B1.**
-  - 地下室 B1。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **Chờ tôi với.**
-  - 等等我。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **Nhanh lên.**
-  - 快一點。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **Muộn rồi.**
-  - 遲到了。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **Mệt quá.**
-  - 好累。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **Bận quá.**
-  - 好忙。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **Ngày mới tốt lành.**
-  - 祝新的一天美好。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **Hẹn gặp lại.**
-  - 再見。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- 另有 4 個句子，請查看完整紀錄。
 
-[查看 2026-07-14 完整學習紀錄](./study-log/2026/07/2026-07-14.md)
+[查看 2026-07-17 完整學習紀錄](./study-log/2026/07/2026-07-17.md)
 
 <!-- LANGUAGE-STUDY:END -->
