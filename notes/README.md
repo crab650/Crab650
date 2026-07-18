@@ -9,6 +9,7 @@ Personal Learning & Workspace 發布的公開筆記。
 
 ## English
 
+- [Hotel English - Checking In & Checking Out](./entries/english/2026-07-18-hotel-english-checking-in-checking-out-n7.md) - 2026-07-18
 - [Business Email Writing](./entries/english/2026-07-17-business-email-writing-n6.md) - 2026-07-17
 - [ABusiness English(About Price) Notes](./entries/english/2026-07-13-abusiness-english-about-price-notes-n2.md) - 2026-07-13
 - [The penalty depends on the type of foul.](./entries/english/2026-06-28-the-penalty-depends-on-the-type-of-foul-n1.md) - 2026-06-28

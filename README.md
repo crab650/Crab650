@@ -4,15 +4,17 @@
 
 ## 學習頻率
 
-![學習頻率：2026-07-07 至 2026-07-27](./assets/learning-frequency.svg?v=2026-07-17)
+![學習頻率：2026-07-08 至 2026-07-28](./assets/learning-frequency.svg?v=2026-07-18)
 
-🔥 目前連續學習：1 天　🏆 最長連續：4 天　📚 此區間學習：5 天
+🔥 目前連續學習：2 天　🏆 最長連續：4 天　📚 此區間學習：6 天
 
 <!-- LEARNING-HEATMAP:END -->
 
 <!-- LEARNING-NOTES:START -->
 
 ## TIL — Today I Learned
+
+[Hotel English - Checking In & Checking Out](./notes/entries/english/2026-07-18-hotel-english-checking-in-checking-out-n7.md) - 2026-07-18
 
 [Business Email Writing](./notes/entries/english/2026-07-17-business-email-writing-n6.md) - 2026-07-17
 
@@ -54,40 +56,24 @@
 
 ## 📚 今日語言學習
 
-> 學習日期：2026-07-17（Asia/Bangkok）
+> 學習日期：2026-07-18（Asia/Bangkok）
 
 | 語言 | 練習次數 | 不同句子 | 答對 | 答錯 | 播音 | 看答案 |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| English | 2 | 2 | 2 | 0 | 2 | 0 |
-| Tiếng Việt | 5 | 5 | 5 | 0 | 8 | 4 |
-
-### English
-
-- **2. I have received your email.**
-  - 我已收到您的電子郵件。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **1. Please check your inbox.**
-  - 請查看您的收件匣。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+| Tiếng Việt | 8 | 3 | 5 | 3 | 7 | 1 |
 
 ### Tiếng Việt（越文）
 
-- **Nghe đài giúp tôi luyện tiếng Việt.**
-  - 聽廣播幫助我學越南語。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **Tôi đang nghe một chương trình tiếng Việt.**
-  - 我正在聽一個越南語節目。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **Tôi thích nghe tin tức vào buổi sáng.**
-  - 我喜歡早上聽新聞。
+- **Tôi mất khá nhiều thời gian để đến công ty.**
+  - 我花很多時間到公司。
   - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **Tôi thường nghe đài khi đi làm.**
-  - 我上班時常常聽廣播。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
-- **Tôi đang nghe đài.**
-  - 我正在聽廣播。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **Tôi đi làm bằng xe buýt của công ty.**
+  - 我搭公司的巴士上班。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
+- **Tôi ăn sáng trước khi đi làm.**
+  - 我上班前會吃早餐。
+  - 練習 6 次｜答對 3｜答錯 3｜播音 3 次
 
-[查看 2026-07-17 完整學習紀錄](./study-log/2026/07/2026-07-17.md)
+[查看 2026-07-18 完整學習紀錄](./study-log/2026/07/2026-07-18.md)
 
 <!-- LANGUAGE-STUDY:END -->
