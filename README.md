@@ -14,7 +14,7 @@
 
 ## TIL — Today I Learned
 
-[視覺定位和CAD 應用](./notes/entries/uncategorized/2026-07-22-視覺定位和cad-應用-n8.md) - 2026-07-22
+[視覺定位和CAD 應用](./notes/entries/ai/2026-07-22-視覺定位和cad-應用-n8.md) - 2026-07-22
 
 [Hotel English - Checking In & Checking Out](./notes/entries/english/2026-07-18-hotel-english-checking-in-checking-out-n7.md) - 2026-07-18
 
