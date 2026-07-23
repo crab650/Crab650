@@ -14,6 +14,8 @@
 
 ## TIL — Today I Learned
 
+[Healthy Lifestyle](./notes/entries/english/2026-07-24-healthy-lifestyle-n9.md) - 2026-07-24
+
 [視覺定位和CAD 應用](./notes/entries/ai/2026-07-22-視覺定位和cad-應用-n8.md) - 2026-07-22
 
 [Hotel English - Checking In & Checking Out](./notes/entries/english/2026-07-18-hotel-english-checking-in-checking-out-n7.md) - 2026-07-18

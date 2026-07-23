@@ -97,7 +97,7 @@
 <rect x="333" y="158" width="26" height="26" rx="4" fill="#30363d" stroke="none" stroke-width="1"/>
 <text class="small" x="346.0" y="200" text-anchor="middle">23</text>
 <text class="small" x="346.0" y="215" text-anchor="middle">Thu</text>
-<rect x="366" y="158" width="26" height="26" rx="4" fill="#9be9a8" stroke="#f2cc60" stroke-width="2"/>
+<rect x="366" y="158" width="26" height="26" rx="4" fill="#40c463" stroke="#f2cc60" stroke-width="2"/>
 <text class="small" x="379.0" y="200" text-anchor="middle">24</text>
 <text class="small" x="379.0" y="215" text-anchor="middle">Fri</text>
 <rect x="399" y="158" width="26" height="26" rx="4" fill="none" stroke="#484f58" stroke-width="1"/>
