@@ -14,6 +14,8 @@
 
 ## TIL — Today I Learned
 
+[專案編號（Project No）與專案序號（Project Seq）](./notes/entries/erp/2026-07-27-專案編號-project-no-與專案序號-project-seq-n10.md) - 2026-07-27
+
 [Healthy Lifestyle](./notes/entries/english/2026-07-24-healthy-lifestyle-n9.md) - 2026-07-24
 
 [視覺定位和CAD 應用](./notes/entries/ai/2026-07-22-視覺定位和cad-應用-n8.md) - 2026-07-22
