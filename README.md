@@ -6,7 +6,7 @@
 
 ![學習頻率：2026-06-28 至 2026-08-08](./assets/learning-frequency.svg?v=2026-07-29)
 
-🔥 目前連續學習：0 天　🏆 最長連續：4 天　📚 此區間學習：11 天
+🔥 目前連續學習：1 天　🏆 最長連續：4 天　📚 此區間學習：12 天
 
 <!-- LEARNING-HEATMAP:END -->
 
@@ -62,100 +62,27 @@
 
 ## 📚 今日語言學習
 
-> 學習日期：2026-07-27（Asia/Bangkok）
+> 學習日期：2026-07-29（Asia/Bangkok）
 
 | 語言 | 練習次數 | 不同句子 | 答對 | 答錯 | 播音 | 看答案 |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| English | 27 | 17 | 24 | 3 | 50 | 0 |
-| Tiếng Việt | 13 | 10 | 11 | 2 | 42 | 1 |
-
-### English
-
-- **We understand your concern.**
-  - 我們了解您的擔憂。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **Thank you for bringing this issue to our attention.**
-  - 感謝您告知我們這個問題。
-  - 練習 2 次｜答對 2｜答錯 0｜播音 5 次
-- **Could you give me a detailed account of what happened?**
-  - 您可以詳細描述事情的經過嗎？
-  - 練習 2 次｜答對 2｜答錯 0｜播音 3 次
-- **Let's go over what happened step by step.**
-  - 讓我們一步一步回顧事情的經過。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
-- **What do you think caused this issue?**
-  - 您認為這個問題是什麼原因造成的？
-  - 練習 3 次｜答對 2｜答錯 1｜播音 3 次
-- **What exactly is the problem?**
-  - 到底是什麼問題？
-  - 練習 2 次｜答對 2｜答錯 0｜播音 2 次
-- **Could you tell me more about the problem?**
-  - 您可以多告訴我一些這個問題的情況嗎？
-  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **We are trying to determine the cause.**
-  - 我們正在查明原因。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **We have resolved the problem.**
-  - 我們已經解決了這個問題。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **Our team is working to resolve the issue.**
-  - 我們的團隊正在努力解決這個問題。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 6 次
-- **We will address the issue immediately.**
-  - 我們將立即處理這個問題。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **We found a technical issue.**
-  - 我們發現了一個技術問題。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **There is an issue with your order.**
-  - 您的訂單有一個問題。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 4 次
-- **Please accept our sincere apology.**
-  - 請接受我們誠摯的道歉。
-  - 練習 3 次｜答對 2｜答錯 1｜播音 4 次
-- **We regret the inconvenience caused.**
-  - 我們對造成的不便深感遺憾。
-  - 練習 3 次｜答對 2｜答錯 1｜播音 4 次
-- **I apologize for the mistake.**
-  - 我為這個錯誤道歉。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **We sincerely apologize for the inconvenience.**
-  - 我們誠摯地為造成您的不便道歉。
-  - 練習 2 次｜答對 2｜答錯 0｜播音 5 次
+| Tiếng Việt | 6 | 4 | 4 | 2 | 8 | 3 |
 
 ### Tiếng Việt（越文）
 
+- **Hôm nay tôi tập trung tốt hơn hôm qua.**
+  - 今天我比昨天更專注。
+  - 練習 3 次｜答對 1｜答錯 2｜播音 2 次
+- **Tôi muốn bắt đầu công việc sớm hơn.**
+  - 我想更早開始工作。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
+- **Tôi cần thời gian để tập trung.**
+  - 我需要一些時間才能專心。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
 - **Đường đi làm thường rất đông.**
   - 上班路上通常很塞。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 4 次
-- **Tôi mất khá nhiều thời gian để đến công ty.**
-  - 我花很多時間到公司。
-  - 練習 2 次｜答對 2｜答錯 0｜播音 12 次
-- **Tôi đi làm bằng xe buýt của công ty.**
-  - 我搭公司的巴士上班。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 4 次
-- **Tôi ăn sáng trước khi đi làm.**
-  - 我上班前會吃早餐。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 4 次
-- **Mỗi sáng tôi dậy lúc bốn giờ.**
-  - 我每天早上四點起床。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
-- **Nghe đài giúp tôi luyện tiếng Việt.**
-  - 聽廣播幫助我學越南語。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 4 次
-- **Tôi đang nghe một chương trình tiếng Việt.**
-  - 我正在聽一個越南語節目。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 4 次
-- **Tôi thích nghe tin tức vào buổi sáng.**
-  - 我喜歡早上聽新聞。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 4 次
-- **Tôi thường nghe đài khi đi làm.**
-  - 我上班時常常聽廣播。
-  - 練習 2 次｜答對 1｜答錯 1｜播音 2 次
-- **Tôi đang nghe đài.**
-  - 我正在聽廣播。
-  - 練習 2 次｜答對 1｜答錯 1｜播音 1 次
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
 
-[查看 2026-07-27 完整學習紀錄](./study-log/2026/07/2026-07-27.md)
+[查看 2026-07-29 完整學習紀錄](./study-log/2026/07/2026-07-29.md)
 
 <!-- LANGUAGE-STUDY:END -->
