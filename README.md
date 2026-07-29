@@ -14,6 +14,8 @@
 
 ## TIL — Today I Learned
 
+[虛件號（Phantom Item）與關鍵件號（Critical Item）](./notes/entries/erp/2026-07-29-虛件號-phantom-item-與關鍵件號-critical-item-n11.md) - 2026-07-29
+
 [專案編號（Project No）與專案序號（Project Seq）](./notes/entries/erp/2026-07-27-專案編號-project-no-與專案序號-project-seq-n10.md) - 2026-07-27
 
 [Healthy Lifestyle](./notes/entries/english/2026-07-24-healthy-lifestyle-n9.md) - 2026-07-24
@@ -31,8 +33,6 @@
 [Files-to-Prompt 學習筆記](./notes/entries/ai/2026-07-14-files-to-prompt-學習筆記-n3.md) - 2026-07-14
 
 [ABusiness English(About Price) Notes](./notes/entries/english/2026-07-13-abusiness-english-about-price-notes-n2.md) - 2026-07-13
-
-[The penalty depends on the type of foul.](./notes/entries/english/2026-06-28-the-penalty-depends-on-the-type-of-foul-n1.md) - 2026-06-28
 
 [查看全部學習筆記](./notes/README.md)
 
