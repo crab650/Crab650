@@ -6,7 +6,7 @@
 
 ![學習頻率：2026-07-01 至 2026-08-11](./assets/learning-frequency.svg?v=2026-08-01)
 
-🔥 目前連續學習：0 天　🏆 最長連續：4 天　📚 此區間學習：12 天
+🔥 目前連續學習：1 天　🏆 最長連續：4 天　📚 此區間學習：13 天
 
 <!-- LEARNING-HEATMAP:END -->
 
@@ -62,64 +62,30 @@
 
 ## 📚 今日語言學習
 
-> 學習日期：2026-07-30（Asia/Bangkok）
+> 學習日期：2026-08-01（Asia/Bangkok）
 
 | 語言 | 練習次數 | 不同句子 | 答對 | 答錯 | 播音 | 看答案 |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| English | 7 | 6 | 7 | 0 | 11 | 0 |
-| Tiếng Việt | 9 | 9 | 9 | 0 | 13 | 1 |
-
-### English
-
-- **The long lines mark every five yards.**
-  - 長線每五碼標示一次。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **The playing field is 100 yards long.**
-  - 球場長一百碼。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **I'd like to learn more about American football.**
-  - 我想多了解美式足球。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **I usually watch baseball instead.**
-  - 我通常改看棒球。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **Do you have a favorite football team?**
-  - 你有最喜歡的美式足球隊嗎？
-  - 練習 2 次｜答對 2｜答錯 0｜播音 2 次
-- **Have you ever watched an American football game?**
-  - 你曾經看過美式足球比賽嗎？
-  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
+| Tiếng Việt | 5 | 5 | 5 | 0 | 11 | 4 |
 
 ### Tiếng Việt（越文）
 
-- **Tôi ăn sáng trước khi đi làm.**
-  - 我上班前會吃早餐。
+- **Hôm nay anh đi làm sớm thế?**
+  - 你今天這麼早去上班啊？
   - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **Mỗi sáng tôi dậy lúc bốn giờ.**
-  - 我每天早上四點起床。
+- **Nhờ chị bấm giúp tôi tầng hầm B1.**
+  - 麻煩妳幫我按一下地下室 B1。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 5 次
+- **Nhờ anh ấn hộ tôi tầng mười lăm nhé.**
+  - 麻煩你幫我按一下十五樓。
   - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **Nghe đài giúp tôi luyện tiếng Việt.**
-  - 聽廣播幫助我學越南語。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **Tôi đang nghe một chương trình tiếng Việt.**
-  - 我正在聽一個越南語節目。
+- **Chào chị, chị xuống tầng một phải không?**
+  - 你好（姐），妳是下到一樓嗎？
   - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **Tôi thích nghe tin tức vào buổi sáng.**
-  - 我喜歡早上聽新聞。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **Tôi thường nghe đài khi đi làm.**
-  - 我上班時常常聽廣播。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **Tôi đang nghe đài.**
-  - 我正在聽廣播。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **Tôi đang cố gắng làm việc hiệu quả hơn.**
-  - 我正努力讓工作更有效率。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **Hôm nay tôi tập trung tốt hơn hôm qua.**
-  - 今天我比昨天更專注。
+- **Chào anh, anh lên tầng mấy?**
+  - 你好（哥），你上幾樓？
   - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
 
-[查看 2026-07-30 完整學習紀錄](./study-log/2026/07/2026-07-30.md)
+[查看 2026-08-01 完整學習紀錄](./study-log/2026/08/2026-08-01.md)
 
 <!-- LANGUAGE-STUDY:END -->
