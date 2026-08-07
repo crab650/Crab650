@@ -4,15 +4,17 @@
 
 ## 學習頻率
 
-![學習頻率：2026-07-06 至 2026-08-16](./assets/learning-frequency.svg?v=2026-08-06)
+![學習頻率：2026-07-07 至 2026-08-17](./assets/learning-frequency.svg?v=2026-08-07)
 
-🔥 目前連續學習：1 天　🏆 最長連續：4 天　📚 此區間學習：14 天
+🔥 目前連續學習：2 天　🏆 最長連續：4 天　📚 此區間學習：15 天
 
 <!-- LEARNING-HEATMAP:END -->
 
 <!-- LEARNING-NOTES:START -->
 
 ## TIL — Today I Learned
+
+[Flask 測試隔離：學習指南與實作範例](./notes/entries/python/2026-08-07-flask-測試隔離-學習指南與實作範例-n13.md) - 2026-08-07
 
 [Footwear Factory Routing Demo](./notes/entries/erp/2026-08-06-footwear-factory-routing-demo-n12.md) - 2026-08-06
 
@@ -31,8 +33,6 @@
 [AI 專案 "SayIt" , 個人雜記的AI應用](./notes/entries/ai/2026-07-15-ai-專案-sayit-個人雜記的ai應用-n5.md) - 2026-07-15
 
 [Local Data Analytics Platform](./notes/entries/數據分析/2026-07-14-local-data-analytics-platform-n4.md) - 2026-07-14
-
-[Files-to-Prompt 學習筆記](./notes/entries/ai/2026-07-14-files-to-prompt-學習筆記-n3.md) - 2026-07-14
 
 [查看全部學習筆記](./notes/README.md)
 

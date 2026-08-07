@@ -22,6 +22,10 @@ Personal Learning & Workspace 發布的公開筆記。
 - [虛件號（Phantom Item）與關鍵件號（Critical Item）](./entries/erp/2026-07-29-虛件號-phantom-item-與關鍵件號-critical-item-n11.md) - 2026-07-29
 - [專案編號（Project No）與專案序號（Project Seq）](./entries/erp/2026-07-27-專案編號-project-no-與專案序號-project-seq-n10.md) - 2026-07-27
 
+## Python
+
+- [Flask 測試隔離：學習指南與實作範例](./entries/python/2026-08-07-flask-測試隔離-學習指南與實作範例-n13.md) - 2026-08-07
+
 ## 數據分析
 
 - [Local Data Analytics Platform](./entries/數據分析/2026-07-14-local-data-analytics-platform-n4.md) - 2026-07-14
