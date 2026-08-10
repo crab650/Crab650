@@ -14,6 +14,8 @@
 
 ## TIL — Today I Learned
 
+[當 AI 讓寫程式變便宜，什麼會變貴？](./notes/entries/ai/2026-08-10-當-ai-讓寫程式變便宜-什麼會變貴-n15.md) - 2026-08-10
+
 [Flask SECRET_KEY：為什麼 Session 需要簽章？](./notes/entries/python/2026-08-10-flask-secret-key-為什麼-session-需要簽章-n14.md) - 2026-08-10
 
 [Flask 測試隔離：學習指南與實作範例](./notes/entries/python/2026-08-07-flask-測試隔離-學習指南與實作範例-n13.md) - 2026-08-07
@@ -31,8 +33,6 @@
 [Hotel English - Checking In & Checking Out](./notes/entries/english/2026-07-18-hotel-english-checking-in-checking-out-n7.md) - 2026-07-18
 
 [Business Email Writing](./notes/entries/english/2026-07-17-business-email-writing-n6.md) - 2026-07-17
-
-[AI 專案 "SayIt" , 個人雜記的AI應用](./notes/entries/ai/2026-07-15-ai-專案-sayit-個人雜記的ai應用-n5.md) - 2026-07-15
 
 [查看全部學習筆記](./notes/README.md)
 
