@@ -24,6 +24,7 @@ Personal Learning & Workspace 發布的公開筆記。
 
 ## Python
 
+- [Flask SECRET_KEY：為什麼 Session 需要簽章？](./entries/python/2026-08-10-flask-secret-key-為什麼-session-需要簽章-n14.md) - 2026-08-10
 - [Flask 測試隔離：學習指南與實作範例](./entries/python/2026-08-07-flask-測試隔離-學習指南與實作範例-n13.md) - 2026-08-07
 
 ## 數據分析
