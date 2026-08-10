@@ -4,15 +4,17 @@
 
 ## 學習頻率
 
-![學習頻率：2026-07-10 至 2026-08-20](./assets/learning-frequency.svg?v=2026-08-10)
+![學習頻率：2026-07-11 至 2026-08-21](./assets/learning-frequency.svg?v=2026-08-11)
 
-🔥 目前連續學習：1 天　🏆 最長連續：4 天　📚 此區間學習：16 天
+🔥 目前連續學習：2 天　🏆 最長連續：4 天　📚 此區間學習：17 天
 
 <!-- LEARNING-HEATMAP:END -->
 
 <!-- LEARNING-NOTES:START -->
 
 ## TIL — Today I Learned
+
+[MES 工時與成本分析公式說明](./notes/entries/mes/2026-08-11-mes-工時與成本分析公式說明-n16.md) - 2026-08-11
 
 [當 AI 讓寫程式變便宜，什麼會變貴？](./notes/entries/ai/2026-08-10-當-ai-讓寫程式變便宜-什麼會變貴-n15.md) - 2026-08-10
 
@@ -31,8 +33,6 @@
 [視覺定位和CAD 應用](./notes/entries/ai/2026-07-22-視覺定位和cad-應用-n8.md) - 2026-07-22
 
 [Hotel English - Checking In & Checking Out](./notes/entries/english/2026-07-18-hotel-english-checking-in-checking-out-n7.md) - 2026-07-18
-
-[Business Email Writing](./notes/entries/english/2026-07-17-business-email-writing-n6.md) - 2026-07-17
 
 [查看全部學習筆記](./notes/README.md)
 
