@@ -25,6 +25,7 @@ Personal Learning & Workspace 發布的公開筆記。
 
 ## MES
 
+- [製程段、替代步驟與產品版本](./entries/mes/2026-08-13-製程段-替代步驟與產品版本-n17.md) - 2026-08-13
 - [MES 工時與成本分析公式說明](./entries/mes/2026-08-11-mes-工時與成本分析公式說明-n16.md) - 2026-08-11
 
 ## Python

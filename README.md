@@ -4,15 +4,17 @@
 
 ## 學習頻率
 
-![學習頻率：2026-07-11 至 2026-08-21](./assets/learning-frequency.svg?v=2026-08-11)
+![學習頻率：2026-07-13 至 2026-08-23](./assets/learning-frequency.svg?v=2026-08-13)
 
-🔥 目前連續學習：2 天　🏆 最長連續：4 天　📚 此區間學習：17 天
+🔥 目前連續學習：1 天　🏆 最長連續：3 天　📚 此區間學習：17 天
 
 <!-- LEARNING-HEATMAP:END -->
 
 <!-- LEARNING-NOTES:START -->
 
 ## TIL — Today I Learned
+
+[製程段、替代步驟與產品版本](./notes/entries/mes/2026-08-13-製程段-替代步驟與產品版本-n17.md) - 2026-08-13
 
 [MES 工時與成本分析公式說明](./notes/entries/mes/2026-08-11-mes-工時與成本分析公式說明-n16.md) - 2026-08-11
 
@@ -31,8 +33,6 @@
 [Healthy Lifestyle](./notes/entries/english/2026-07-24-healthy-lifestyle-n9.md) - 2026-07-24
 
 [視覺定位和CAD 應用](./notes/entries/ai/2026-07-22-視覺定位和cad-應用-n8.md) - 2026-07-22
-
-[Hotel English - Checking In & Checking Out](./notes/entries/english/2026-07-18-hotel-english-checking-in-checking-out-n7.md) - 2026-07-18
 
 [查看全部學習筆記](./notes/README.md)
 
