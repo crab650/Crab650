@@ -4,9 +4,9 @@
 
 ## 學習頻率
 
-![學習頻率：2026-07-14 至 2026-08-24](./assets/learning-frequency.svg?v=2026-08-14)
+![學習頻率：2026-07-15 至 2026-08-25](./assets/learning-frequency.svg?v=2026-08-15)
 
-🔥 目前連續學習：2 天　🏆 最長連續：2 天　📚 此區間學習：17 天
+🔥 目前連續學習：3 天　🏆 最長連續：3 天　📚 此區間學習：17 天
 
 <!-- LEARNING-HEATMAP:END -->
 
@@ -62,76 +62,51 @@
 
 ## 📚 今日語言學習
 
-> 學習日期：2026-08-14（Asia/Bangkok）
+> 學習日期：2026-08-15（Asia/Bangkok）
 
 | 語言 | 練習次數 | 不同句子 | 答對 | 答錯 | 播音 | 看答案 |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| English | 31 | 28 | 25 | 6 | 103 | 0 |
+| English | 19 | 12 | 18 | 1 | 29 | 0 |
 
 ### English
 
-- **Father Kim woke up on the floor.**
-  - 父親金基澤在地上醒來。
+- **Finally, near the ceiling, the phone beeped.**
+  - 終於，在靠近天花板的地方，手機發出了嗶嗶聲。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
+- **They climbed up next to the toilet.**
+  - 他們爬到了馬桶旁邊。
+  - 練習 2 次｜答對 2｜答錯 0｜播音 5 次
+- **The bathroom smelled like old pipes.**
+  - 浴室裡聞起來有老舊水管的味道。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
+- **They walked against the walls and into the bathroom.**
+  - 他們貼著牆壁走進浴室。
   - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **His mother heard him; she yelled and kicked her husband.**
-  - 他的母親聽到了，大聲叫喊並踢了她丈夫一腳。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
-- **He was very worried.**
-  - 他感到非常擔心。
+- **Kevin and Jessica held their phones high.**
+  - 凱文和潔西卡把手機舉得高高的。
+  - 練習 2 次｜答對 2｜答錯 0｜播音 3 次
+- **"If you want internet, go up high," he grunted.**
+  - 「如果你想要網路，就往高處去，」他哼了一聲。
   - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **The people upstairs locked it with a password.**
-  - 樓上的住戶用密碼鎖住了它。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 5 次
-- **One day, Kevin looked at his phone; the free Wi-Fi was gone.**
-  - 有一天，凱文看著手機，免費的 Wi-Fi 訊號消失了。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 4 次
-- **Even in the day, it is black inside.**
-  - 即使是在白天，屋裡也是一片漆黑。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 5 次
-- **The air smells like old food.**
-  - 空氣中瀰漫著陳舊食物的味道。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **Wet socks hang from the ceiling, dripping water.**
-  - 濕透的襪子掛在天花板上，不斷滴著水。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **If you look up at the small window, you only see the feet of people walking by.**
-  - 如果你抬頭看那扇小窗戶，你只能看到路人走過的雙腳。
-  - 練習 1 次｜答對 0｜答錯 1｜播音 11 次
-- **They now live in a dark, wet basement down a narrow street in Seoul, South Korea.**
-  - 他們現在住在韓國首爾一條狹窄街道旁的陰暗潮濕地下室裡。
-  - 練習 1 次｜答對 0｜答錯 1｜播音 8 次
-- **She had to stay home because they have no money.**
-  - 因為家裡沒有錢，她只能待在家裡。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
-- **She can draw beautiful pictures, but art school costs too much money.**
-  - 她能畫出美麗的畫作，但藝術學校的學費太貴了。
-  - 練習 2 次｜答對 2｜答錯 0｜播音 9 次
-- **Jessica is very smart.**
-  - 潔西卡非常聰明。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **The fried chicken store failed, then they tried to sell sweetcakes, but that failed too.**
-  - 炸雞店倒閉了，接著他們嘗試賣古早味蛋糕，但那也失敗了。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 5 次
-- **The husband and wife tried to make their own money.**
-  - 這對夫妻曾試圖自己做生意賺錢。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
-- **Nobody in the family had a job.**
-  - 如今家裡沒有一個人有工作。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **The mother was a strong athlete; she threw heavy balls in sports.**
-  - 母親曾是一位強壯的運動員，在運動會上丟過鉛球。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 4 次
-- **Father Kim drove a taxi every day.**
-  - 父親金基澤以前每天開計程車。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
-- **They tried to work very hard in the past.**
-  - 他們過去也曾非常努力地工作。
+- **He looked at his son.**
+  - 他看著他的兒子。
   - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **They are not lazy people.**
-  - 他們並不是懶惰的人。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- 另有 8 個句子，請查看完整紀錄。
+- **He flicked the bug away while he chewed.**
+  - 他一邊咀嚼一邊把蟲子彈走。
+  - 練習 3 次｜答對 2｜答錯 1｜播音 3 次
+- **A small bug crawled on the table.**
+  - 一隻小蟲子在桌上爬。
+  - 練習 3 次｜答對 3｜答錯 0｜播音 3 次
+- **He ate it.**
+  - 他還是把它吃了。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **He picked up a piece of bread; it smelled sour.**
+  - 他 picked 起一片麵包，聞起來酸酸的。
+  - 練習 2 次｜答對 2｜答錯 0｜播音 3 次
+- **He was not worried.**
+  - 他一點也不擔心。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
 
-[查看 2026-08-14 完整學習紀錄](./study-log/2026/08/2026-08-14.md)
+[查看 2026-08-15 完整學習紀錄](./study-log/2026/08/2026-08-15.md)
 
 <!-- LANGUAGE-STUDY:END -->
