@@ -36,3 +36,7 @@ Personal Learning & Workspace 發布的公開筆記。
 ## 數據分析
 
 - [Local Data Analytics Platform](./entries/數據分析/2026-07-14-local-data-analytics-platform-n4.md) - 2026-07-14
+
+## 網路
+
+- [從 Philips Camera 實驗理解網路](./entries/網路/2026-08-15-從-philips-camera-實驗理解網路-n18.md) - 2026-08-15
