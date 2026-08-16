@@ -4,9 +4,9 @@
 
 ## 學習頻率
 
-![學習頻率：2026-07-16 至 2026-08-26](./assets/learning-frequency.svg?v=2026-08-16)
+![學習頻率：2026-07-17 至 2026-08-27](./assets/learning-frequency.svg?v=2026-08-17)
 
-🔥 目前連續學習：4 天　🏆 最長連續：4 天　📚 此區間學習：17 天
+🔥 目前連續學習：5 天　🏆 最長連續：5 天　📚 此區間學習：18 天
 
 <!-- LEARNING-HEATMAP:END -->
 
@@ -62,63 +62,76 @@
 
 ## 📚 今日語言學習
 
-> 學習日期：2026-08-16（Asia/Bangkok）
+> 學習日期：2026-08-17（Asia/Bangkok）
 
 | 語言 | 練習次數 | 不同句子 | 答對 | 答錯 | 播音 | 看答案 |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| English | 18 | 16 | 18 | 0 | 55 | 0 |
+| English | 32 | 31 | 31 | 1 | 75 | 0 |
 
 ### English
 
-- **They felt very sick, but it was free, so they took it.**
-  - 他們感到非常不舒服，但因為這是免費的，所以他們忍受了下來。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 4 次
-- **But Father Kim did not stop; he kept folding pizza boxes in the smoke.**
-  - 但父親金基澤沒有停下來，他繼續在煙霧中折著披薩盒。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 4 次
-- **Water fell from their eyes and noses.**
-  - 眼淚和鼻涕直冒。
+- **The friend told a secret: he was a teacher for a rich girl.**
+  - 朋友透露了一個秘密：他是一個有錢人家女孩的家教。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
+- **They drank alcohol.**
+  - 他們喝著酒。
   - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **The mother, the son, and the daughter coughed hard.**
-  - 母親、兒子和女兒都劇烈地咳嗽起來。
+- **Later, the two boys sat on the street.**
+  - 後來，這兩個男孩坐在街上。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
+- **The father smiled.**
+  - 父親笑了。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **"This is what we need."**
+  - 「這正是我們需要的。」
+  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
+- **Father Kim nodded hard.**
+  - 父親金基澤用力點頭。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
+- **"This rock brings money and good luck," the friend told him.**
+  - 「這塊石頭能帶來金錢和好運，」朋友告訴他。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 5 次
+- **Kevin held the rock.**
+  - 凱文抱著這塊石頭。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **Inside was a heavy rock.**
+  - 裡面裝著一塊沉重的石頭。
   - 練習 1 次｜答對 1｜答錯 0｜播音 4 次
-- **The thick smoke filled the room.**
-  - 濃厚的煙霧充滿了整個房間。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
-- **They did not shut the window.**
-  - 他們沒有關窗。
+- **He brought a big box.**
+  - 他帶來了一個大箱子。
   - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **We get free bug killing."**
-  - 我們能得到免費的殺蟲服務。」
-  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **Let the smoke come in.**
-  - 讓煙霧進來吧。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **"We have more bugs inside than outside.**
-  - 「我們屋子裡的蟲子比外面還多。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
-- **"Stop," he ordered.**
-  - 「住手，」他命令道。
+- **The smart friend came inside.**
+  - 聰明的朋友走了進來。
   - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **Jessica wanted to shut the window.**
-  - 潔西卡想要關上窗戶。
-  - 練習 2 次｜答對 2｜答錯 0｜播音 6 次
-- **Father Kim grabbed her hand.**
-  - 父親金基澤抓住了她的手。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
-- **White smoke shot out.**
-  - 白色的煙霧噴射了出來。
+- **"He is so brave."**
+  - 「他真勇敢。」
   - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **A man was driving a truck; he was spraying bug poison.**
-  - 一個男人開著卡車正在噴灑殺蟲劑。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 9 次
-- **Suddenly, a loud noise came from the street.**
-  - 突然，街上傳來一陣巨大的噪音。
+- **"He goes to a good college," they whispered, amazed.**
+  - 「他讀的是好大學，」他們驚嘆地低語道。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
+- **Inside the dark room, the parents looked out.**
+  - 在陰暗的房間裡，父母往外看去。
   - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
-- **Their job was folding boxes for a pizza shop; it paid very little money.**
-  - 他們的工作是幫披薩店折紙盒，這只能賺非常微薄的錢。
-  - 練習 2 次｜答對 2｜答錯 0｜播音 7 次
+- **The drunk man ran away.**
+  - 醉漢逃跑了。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
+- **He yelled at the drunk man.**
+  - 他對著那個醉漢大喊。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
+- **He was not scared.**
+  - 他一點也不害怕。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **It was Kevin's smart friend.**
+  - 那是凱文的聰明朋友。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
+- **Then a loud voice rang out.**
+  - 接著，傳來一聲大喝。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
+- **They had no money, so they had no voice.**
+  - 他們沒有錢，所以就沒有發言權。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
+- 另有 11 個句子，請查看完整紀錄。
 
-[查看 2026-08-16 完整學習紀錄](./study-log/2026/08/2026-08-16.md)
+[查看 2026-08-17 完整學習紀錄](./study-log/2026/08/2026-08-17.md)
 
 <!-- LANGUAGE-STUDY:END -->
