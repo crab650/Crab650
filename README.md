@@ -4,9 +4,9 @@
 
 ## 學習頻率
 
-![學習頻率：2026-07-17 至 2026-08-27](./assets/learning-frequency.svg?v=2026-08-17)
+![學習頻率：2026-07-18 至 2026-08-28](./assets/learning-frequency.svg?v=2026-08-18)
 
-🔥 目前連續學習：5 天　🏆 最長連續：5 天　📚 此區間學習：18 天
+🔥 目前連續學習：6 天　🏆 最長連續：6 天　📚 此區間學習：18 天
 
 <!-- LEARNING-HEATMAP:END -->
 
@@ -62,76 +62,72 @@
 
 ## 📚 今日語言學習
 
-> 學習日期：2026-08-17（Asia/Bangkok）
+> 學習日期：2026-08-18（Asia/Bangkok）
 
 | 語言 | 練習次數 | 不同句子 | 答對 | 答錯 | 播音 | 看答案 |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| English | 32 | 31 | 31 | 1 | 75 | 0 |
+| English | 19 | 19 | 19 | 0 | 52 | 0 |
 
 ### English
 
-- **The friend told a secret: he was a teacher for a rich girl.**
-  - 朋友透露了一個秘密：他是一個有錢人家女孩的家教。
+- **Kevin could not speak; he had never seen a house so beautiful.**
+  - 凱文說不出話來，他從未見過如此美麗的房子。
   - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
-- **They drank alcohol.**
-  - 他們喝著酒。
+- **The house was full of light; big windows showed the sun.**
+  - 房子裡充滿了光線，大大的窗戶透著陽光。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
+- **She took him inside.**
+  - 她帶他走了進去。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
+- **The old housekeeper opened the door.**
+  - 年邁的女管家打開了門。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
+- **It was like a dream; it was heaven.**
+  - 這裡就像夢境一樣，簡直是天堂。
   - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **Later, the two boys sat on the street.**
-  - 後來，這兩個男孩坐在街上。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **The father smiled.**
-  - 父親笑了。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **"This is what we need."**
-  - 「這正是我們需要的。」
-  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **Father Kim nodded hard.**
-  - 父親金基澤用力點頭。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **"This rock brings money and good luck," the friend told him.**
-  - 「這塊石頭能帶來金錢和好運，」朋友告訴他。
+- **A huge green yard sat in front of the house.**
+  - 房子前面有一個巨大的綠色庭院。
   - 練習 1 次｜答對 1｜答錯 0｜播音 5 次
-- **Kevin held the rock.**
-  - 凱文抱著這塊石頭。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **Inside was a heavy rock.**
-  - 裡面裝著一塊沉重的石頭。
+- **He rang the bell at a giant house.**
+  - 他按了一棟豪宅的門鈴。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
+- **The next day, Kevin took the fake paper.**
+  - 第二天，凱文拿著這張假文憑。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
+- **"Oxford University should give her a real paper for this," he laughed.**
+  - 「牛津大學應該為這張證書頒給她一張真的文憑，」他笑著說。
   - 練習 1 次｜答對 1｜答錯 0｜播音 4 次
-- **He brought a big box.**
-  - 他帶來了一個大箱子。
+- **He was so happy.**
+  - 他太高興了。
   - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **The smart friend came inside.**
-  - 聰明的朋友走了進來。
+- **Father Kim looked at it.**
+  - 父親金基澤看著這張紙。
   - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **"He is so brave."**
-  - 「他真勇敢。」
-  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **"He goes to a good college," they whispered, amazed.**
-  - 「他讀的是好大學，」他們驚嘆地低語道。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **Inside the dark room, the parents looked out.**
-  - 在陰暗的房間裡，父母往外看去。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
-- **The drunk man ran away.**
-  - 醉漢逃跑了。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **He yelled at the drunk man.**
-  - 他對著那個醉漢大喊。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **He was not scared.**
-  - 他一點也不害怕。
+- **It looked very real.**
+  - 這看起來非常逼真。
   - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **It was Kevin's smart friend.**
-  - 那是凱文的聰明朋友。
+- **She made a fake paper; it said Kevin went to Oxford University.**
+  - 她做了一張假證書，上面寫著凱文就讀於牛津大學。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **She was a master at computer drawing.**
+  - 她是電腦繪圖的高手。
   - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
-- **Then a loud voice rang out.**
-  - 接著，傳來一聲大喝。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
-- **They had no money, so they had no voice.**
-  - 他們沒有錢，所以就沒有發言權。
+- **Kevin went to an internet shop with Jessica.**
+  - 凱文和潔西卡一起去了網咖。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 4 次
+- **The family needed the money.**
+  - 這家人非常需要這筆錢。
   - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- 另有 11 個句子，請查看完整紀錄。
+- **He picked Kevin to teach her because Kevin was poor; a rich girl would never fall in love with a poor boy.**
+  - 他選擇凱文去教她，因為凱文很窮，而有錢人家的女孩絕對不會愛上一個窮小子。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 9 次
+- **Looking at Kevin, he hatched a plan.**
+  - 他看著凱文，策劃了一個計劃。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
+- **Her father was Mr. Park, a very rich man.**
+  - 她的父親是朴先生，一個非常有錢的人。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
 
-[查看 2026-08-17 完整學習紀錄](./study-log/2026/08/2026-08-17.md)
+[查看 2026-08-18 完整學習紀錄](./study-log/2026/08/2026-08-18.md)
 
 <!-- LANGUAGE-STUDY:END -->
