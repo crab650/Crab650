@@ -4,9 +4,9 @@
 
 ## 學習頻率
 
-![學習頻率：2026-07-18 至 2026-08-28](./assets/learning-frequency.svg?v=2026-08-18)
+![學習頻率：2026-07-19 至 2026-08-29](./assets/learning-frequency.svg?v=2026-08-19)
 
-🔥 目前連續學習：6 天　🏆 最長連續：6 天　📚 此區間學習：18 天
+🔥 目前連續學習：7 天　🏆 最長連續：7 天　📚 此區間學習：18 天
 
 <!-- LEARNING-HEATMAP:END -->
 
@@ -62,72 +62,76 @@
 
 ## 📚 今日語言學習
 
-> 學習日期：2026-08-18（Asia/Bangkok）
+> 學習日期：2026-08-19（Asia/Bangkok）
 
 | 語言 | 練習次數 | 不同句子 | 答對 | 答錯 | 播音 | 看答案 |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| English | 19 | 19 | 19 | 0 | 52 | 0 |
+| English | 31 | 31 | 31 | 0 | 94 | 0 |
 
 ### English
 
-- **Kevin could not speak; he had never seen a house so beautiful.**
-  - 凱文說不出話來，他從未見過如此美麗的房子。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
-- **The house was full of light; big windows showed the sun.**
-  - 房子裡充滿了光線，大大的窗戶透著陽光。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
-- **She took him inside.**
-  - 她帶他走了進去。
+- **She told Mrs. Park to leave the room.**
+  - 她叫朴太太離開房間。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **She did not smile.**
+  - 她臉上毫無笑容。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **She acted like a rich girl.**
+  - 她舉止像個有錢人家的女孩。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **Before she rang the bell, she repeated a little song in her head to remember her fake life: "Jessica, only child, Illinois, Chicago."**
+  - 在她按門鈴之前，她在腦海中默唱著一首小歌，以記住她的虛構背景：「潔西卡，獨生女，伊利諾州，芝加哥。」
+  - 練習 1 次｜答對 1｜答錯 0｜播音 13 次
+- **The brother and sister had practiced all night.**
+  - 兄妹倆練習了整整一晚。
   - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **The old housekeeper opened the door.**
-  - 年邁的女管家打開了門。
+- **It was his sister, Jessica.**
+  - 那就是他的妹妹，潔西卡。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **The next day, the great art teacher came.**
+  - 第二天，那位偉大的美術老師來了。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **She was hard to get, but he could call her.**
+  - 她很難約，但他可以打電話給她試試。
   - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
-- **It was like a dream; it was heaven.**
-  - 這裡就像夢境一樣，簡直是天堂。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **A huge green yard sat in front of the house.**
-  - 房子前面有一個巨大的綠色庭院。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 5 次
-- **He rang the bell at a giant house.**
-  - 他按了一棟豪宅的門鈴。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **The next day, Kevin took the fake paper.**
-  - 第二天，凱文拿著這張假文憑。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **"Oxford University should give her a real paper for this," he laughed.**
-  - 「牛津大學應該為這張證書頒給她一張真的文憑，」他笑著說。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 4 次
-- **He was so happy.**
-  - 他太高興了。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **Father Kim looked at it.**
-  - 父親金基澤看著這張紙。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **It looked very real.**
-  - 這看起來非常逼真。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **She made a fake paper; it said Kevin went to Oxford University.**
-  - 她做了一張假證書，上面寫著凱文就讀於牛津大學。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **She was a master at computer drawing.**
-  - 她是電腦繪圖的高手。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
-- **Kevin went to an internet shop with Jessica.**
-  - 凱文和潔西卡一起去了網咖。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 4 次
-- **The family needed the money.**
-  - 這家人非常需要這筆錢。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **He picked Kevin to teach her because Kevin was poor; a rich girl would never fall in love with a poor boy.**
-  - 他選擇凱文去教她，因為凱文很窮，而有錢人家的女孩絕對不會愛上一個窮小子。
+- **She studied art in the mind far away.**
+  - 她在遙遠的地方學習藝術心理學。
   - 練習 1 次｜答對 1｜答錯 0｜播音 9 次
-- **Looking at Kevin, he hatched a plan.**
-  - 他看著凱文，策劃了一個計劃。
+- **He told her he knew a great art teacher.**
+  - 他告訴她，他認識一位很棒的美術老師。
   - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **Her father was Mr. Park, a very rich man.**
-  - 她的父親是朴先生，一個非常有錢的人。
+- **He spoke fast.**
+  - 他飛快地說道。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **Kevin heard this; a plan formed in his head.**
+  - 凱文聽到了，腦海中形成了一個計劃。
   - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
+- **But he was very wild; no art teacher could stay with him for more than one month.**
+  - 但他非常野，沒有一個美術老師能待超過一個月。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 4 次
+- **She explained that the little boy loved Native Americans; he drew pictures of them all the time.**
+  - 她解釋說，這個小男孩熱愛印第安人，一直在畫他們的畫。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 10 次
+- **Mrs. Park sighed.**
+  - 朴太太嘆了口氣。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
+- **He jumped around wildly.**
+  - 他瘋狂地到處蹦跳。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **He wore Native American clothes.**
+  - 他穿著印第安人的衣服。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
+- **Then the little boy ran into the room.**
+  - 這時，小男孩跑進了房間。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **She hired him.**
+  - 她僱用了他。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **She liked this new way of teaching.**
+  - 她很喜歡這種新的教學方式。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- 另有 11 個句子，請查看完整紀錄。
 
-[查看 2026-08-18 完整學習紀錄](./study-log/2026/08/2026-08-18.md)
+[查看 2026-08-19 完整學習紀錄](./study-log/2026/08/2026-08-19.md)
 
 <!-- LANGUAGE-STUDY:END -->
