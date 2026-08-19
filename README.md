@@ -4,9 +4,9 @@
 
 ## 學習頻率
 
-![學習頻率：2026-07-19 至 2026-08-29](./assets/learning-frequency.svg?v=2026-08-19)
+![學習頻率：2026-07-20 至 2026-08-30](./assets/learning-frequency.svg?v=2026-08-20)
 
-🔥 目前連續學習：7 天　🏆 最長連續：7 天　📚 此區間學習：18 天
+🔥 目前連續學習：8 天　🏆 最長連續：8 天　📚 此區間學習：19 天
 
 <!-- LEARNING-HEATMAP:END -->
 
@@ -62,76 +62,76 @@
 
 ## 📚 今日語言學習
 
-> 學習日期：2026-08-19（Asia/Bangkok）
+> 學習日期：2026-08-20（Asia/Bangkok）
 
 | 語言 | 練習次數 | 不同句子 | 答對 | 答錯 | 播音 | 看答案 |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| English | 31 | 31 | 31 | 0 | 94 | 0 |
+| English | 31 | 31 | 31 | 0 | 72 | 0 |
 
 ### English
 
-- **She told Mrs. Park to leave the room.**
-  - 她叫朴太太離開房間。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **She did not smile.**
-  - 她臉上毫無笑容。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **She acted like a rich girl.**
-  - 她舉止像個有錢人家的女孩。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **Before she rang the bell, she repeated a little song in her head to remember her fake life: "Jessica, only child, Illinois, Chicago."**
-  - 在她按門鈴之前，她在腦海中默唱著一首小歌，以記住她的虛構背景：「潔西卡，獨生女，伊利諾州，芝加哥。」
-  - 練習 1 次｜答對 1｜答錯 0｜播音 13 次
-- **The brother and sister had practiced all night.**
-  - 兄妹倆練習了整整一晚。
+- **To frame the driver, she secretly took off her underwear.**
+  - 為了陷害司機，她偷偷脫下了內褲。
   - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **It was his sister, Jessica.**
-  - 那就是他的妹妹，潔西卡。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **The next day, the great art teacher came.**
-  - 第二天，那位偉大的美術老師來了。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **She was hard to get, but he could call her.**
-  - 她很難約，但他可以打電話給她試試。
+- **A bad plan came to her mind; she wanted her father to work here too.**
+  - 一個壞主意浮上她的心頭：她想讓自己的父親也在這裡工作。
   - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
-- **She studied art in the mind far away.**
-  - 她在遙遠的地方學習藝術心理學。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 9 次
-- **He told her he knew a great art teacher.**
-  - 他告訴她，他認識一位很棒的美術老師。
+- **Jessica sat in the back.**
+  - 潔西卡坐在後座。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **He asked her where she lived.**
+  - 他問她住在哪裡。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **He drove her in the big Mercedes.**
+  - 他開著那輛大奔馳車（Mercedes）送她。
   - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **He spoke fast.**
-  - 他飛快地說道。
+- **The driver was a nice man.**
+  - 這個司機是個善良的好人。
   - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **Kevin heard this; a plan formed in his head.**
-  - 凱文聽到了，腦海中形成了一個計劃。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
-- **But he was very wild; no art teacher could stay with him for more than one month.**
-  - 但他非常野，沒有一個美術老師能待超過一個月。
+- **He told his young driver to take Jessica home.**
+  - 他吩咐年輕的司機開車送潔西卡回家。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
+- **Mr. Park was happy.**
+  - 朴先生很高興。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **Mrs. Park introduced the new art teacher.**
+  - 朴太太介紹了這位新來的美術老師。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **The rich father, Mr. Park, came home.**
+  - 有錢的父親朴先生回家了。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **Then the lights on the stairs turned on one by one.**
+  - 接著，樓梯上的燈一盞接一盞亮起。
   - 練習 1 次｜答對 1｜答錯 0｜播音 4 次
-- **She explained that the little boy loved Native Americans; he drew pictures of them all the time.**
-  - 她解釋說，這個小男孩熱愛印第安人，一直在畫他們的畫。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 10 次
-- **Mrs. Park sighed.**
-  - 朴太太嘆了口氣。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **He jumped around wildly.**
-  - 他瘋狂地到處蹦跳。
+- **She belonged to him now.**
+  - 她現在已經屬於他了。
   - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **He wore Native American clothes.**
-  - 他穿著印第安人的衣服。
+- **She fell in love; they kissed 10 times.**
+  - 她墜入了愛河，他們吻了十次。
   - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
-- **Then the little boy ran into the room.**
-  - 這時，小男孩跑進了房間。
+- **He held her close.**
+  - 他緊緊抱著她。
   - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **She hired him.**
-  - 她僱用了他。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **She liked this new way of teaching.**
-  - 她很喜歡這種新的教學方式。
+- **Kevin used sweet words.**
+  - 凱文用甜言蜜語安撫她。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
+- **The rich girl was angry because her parents loved her little brother more.**
+  - 有錢女孩因為父母更疼愛她的弟弟而生氣。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 6 次
+- **Upstairs, Kevin was doing well too.**
+  - 在樓上，凱文也進展得很順利。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
+- **We have to act like we belong here," Jessica whispered to her family later.**
+  - 我們必須表現得好像我們本來就屬於這裡一樣，」潔西卡後來向家人低聲說道。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 6 次
+- **"It's a rich person's house.**
+  - 「這是有錢人的豪宅。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
+- **She hired Jessica.**
+  - 她僱用了潔西卡。
   - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
 - 另有 11 個句子，請查看完整紀錄。
 
-[查看 2026-08-19 完整學習紀錄](./study-log/2026/08/2026-08-19.md)
+[查看 2026-08-20 完整學習紀錄](./study-log/2026/08/2026-08-20.md)
 
 <!-- LANGUAGE-STUDY:END -->
