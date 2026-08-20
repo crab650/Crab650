@@ -4,9 +4,9 @@
 
 ## 學習頻率
 
-![學習頻率：2026-07-20 至 2026-08-30](./assets/learning-frequency.svg?v=2026-08-20)
+![學習頻率：2026-07-21 至 2026-08-31](./assets/learning-frequency.svg?v=2026-08-21)
 
-🔥 目前連續學習：8 天　🏆 最長連續：8 天　📚 此區間學習：19 天
+🔥 目前連續學習：9 天　🏆 最長連續：9 天　📚 此區間學習：19 天
 
 <!-- LEARNING-HEATMAP:END -->
 
@@ -62,76 +62,76 @@
 
 ## 📚 今日語言學習
 
-> 學習日期：2026-08-20（Asia/Bangkok）
+> 學習日期：2026-08-21（Asia/Bangkok）
 
 | 語言 | 練習次數 | 不同句子 | 答對 | 答錯 | 播音 | 看答案 |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| English | 31 | 31 | 31 | 0 | 72 | 0 |
+| English | 33 | 30 | 31 | 2 | 104 | 0 |
 
 ### English
 
-- **To frame the driver, she secretly took off her underwear.**
-  - 為了陷害司機，她偷偷脫下了內褲。
+- **The old housekeeper got very sick if she touched peach fuzz, the soft hair on a peach.**
+  - 老管家如果碰到水蜜桃的毛（水蜜桃表面細細的絨毛），就會病得很嚴重。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 6 次
+- **They found out a secret.**
+  - 他們發現了一個秘密。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **The brother and sister watched her closely.**
+  - 這對兄妹仔細地觀察她。
   - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **A bad plan came to her mind; she wanted her father to work here too.**
-  - 一個壞主意浮上她的心頭：她想讓自己的父親也在這裡工作。
+- **She knew everything about the house.**
+  - 她對這棟房子的一切瞭如指掌。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
+- **She worked for the man who built the house.**
+  - 她曾幫建造這棟房子的前任主人工作過。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
+- **But the old housekeeper was hard to beat.**
+  - 但是要除掉原本的老管家可不容易。
   - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
-- **Jessica sat in the back.**
-  - 潔西卡坐在後座。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **He asked her where she lived.**
-  - 他問她住在哪裡。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **He drove her in the big Mercedes.**
-  - 他開著那輛大奔馳車（Mercedes）送她。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **The driver was a nice man.**
-  - 這個司機是個善良的好人。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **He told his young driver to take Jessica home.**
-  - 他吩咐年輕的司機開車送潔西卡回家。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **Mr. Park was happy.**
-  - 朴先生很高興。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **Mrs. Park introduced the new art teacher.**
-  - 朴太太介紹了這位新來的美術老師。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **The rich father, Mr. Park, came home.**
-  - 有錢的父親朴先生回家了。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **Then the lights on the stairs turned on one by one.**
-  - 接著，樓梯上的燈一盞接一盞亮起。
+- **They wanted her to be the new housekeeper.**
+  - 他們希望她能成為新的管家。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 6 次
+- **Now three of them had jobs; only the mother was left.**
+  - 現在他們家有三個人都有了工作，只剩下母親還沒有工作。
   - 練習 1 次｜答對 1｜答錯 0｜播音 4 次
-- **She belonged to him now.**
-  - 她現在已經屬於他了。
+- **He hired him.**
+  - 於是僱用了他。
   - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **She fell in love; they kissed 10 times.**
-  - 她墜入了愛河，他們吻了十次。
+- **Mr. Park loved him.**
+  - 朴先生非常中意他。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **He said all the right words.**
+  - 他說的每一句話都恰到好處。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **He played Mr. Park's favorite music.**
+  - 他播放了朴先生最喜歡的音樂。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **He did not spill a drop of coffee.**
+  - 他連一滴咖啡都沒有灑出來。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 5 次
+- **Father Kim drove perfectly.**
+  - 父親金基澤開得完美無瑕。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **The next day, Father Kim drove Mr. Park.**
+  - 隔天，父親金基澤開車接送朴先生。
   - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
-- **He held her close.**
-  - 他緊緊抱著她。
+- **Father Kim drove the exact same Mercedes to practice.**
+  - 父親金基澤開著一模一樣的賓士車來進行練習。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 6 次
+- **They pretended to buy a car.**
+  - 他們假裝要買車。
   - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **Kevin used sweet words.**
-  - 凱文用甜言蜜語安撫她。
+- **Before the meeting, to be safe, Kevin and his dad went to a car shop.**
+  - 見面前，為了保險起見，凱文和他爸爸去了一家汽車展示店。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 5 次
+- **He drove an old man she used to know.**
+  - 他以前曾幫她認識的一位長輩開車。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 4 次
+- **She told Mrs. Park she knew a great man.**
+  - 她告訴朴太太，她認識一位非常優秀的人選。
   - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
-- **The rich girl was angry because her parents loved her little brother more.**
-  - 有錢女孩因為父母更疼愛她的弟弟而生氣。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 6 次
-- **Upstairs, Kevin was doing well too.**
-  - 在樓上，凱文也進展得很順利。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **We have to act like we belong here," Jessica whispered to her family later.**
-  - 我們必須表現得好像我們本來就屬於這裡一樣，」潔西卡後來向家人低聲說道。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 6 次
-- **"It's a rich person's house.**
-  - 「這是有錢人的豪宅。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **She hired Jessica.**
-  - 她僱用了潔西卡。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- 另有 11 個句子，請查看完整紀錄。
+- 另有 10 個句子，請查看完整紀錄。
 
-[查看 2026-08-20 完整學習紀錄](./study-log/2026/08/2026-08-20.md)
+[查看 2026-08-21 完整學習紀錄](./study-log/2026/08/2026-08-21.md)
 
 <!-- LANGUAGE-STUDY:END -->
