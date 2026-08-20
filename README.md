@@ -14,6 +14,8 @@
 
 ## TIL — Today I Learned
 
+[銀行轉帳系統設計](./notes/entries/sql/2026-08-21-銀行轉帳系統設計-n19.md) - 2026-08-21
+
 [從 Philips Camera 實驗理解網路](./notes/entries/網路/2026-08-15-從-philips-camera-實驗理解網路-n18.md) - 2026-08-15
 
 [製程段、替代步驟與產品版本](./notes/entries/mes/2026-08-13-製程段-替代步驟與產品版本-n17.md) - 2026-08-13
@@ -31,8 +33,6 @@
 [虛件號（Phantom Item）與關鍵件號（Critical Item）](./notes/entries/erp/2026-07-29-虛件號-phantom-item-與關鍵件號-critical-item-n11.md) - 2026-07-29
 
 [專案編號（Project No）與專案序號（Project Seq）](./notes/entries/erp/2026-07-27-專案編號-project-no-與專案序號-project-seq-n10.md) - 2026-07-27
-
-[Healthy Lifestyle](./notes/entries/english/2026-07-24-healthy-lifestyle-n9.md) - 2026-07-24
 
 [查看全部學習筆記](./notes/README.md)
 
