@@ -6,13 +6,15 @@
 
 ![學習頻率：2026-07-22 至 2026-09-01](./assets/learning-frequency.svg?v=2026-08-22)
 
-🔥 目前連續學習：0 天　🏆 最長連續：9 天　📚 此區間學習：19 天
+🔥 目前連續學習：10 天　🏆 最長連續：10 天　📚 此區間學習：20 天
 
 <!-- LEARNING-HEATMAP:END -->
 
 <!-- LEARNING-NOTES:START -->
 
 ## TIL — Today I Learned
+
+[Bitcoin Simulation System — Technical Design Document](./notes/entries/網路/2026-08-22-bitcoin-simulation-system-technical-design-document-n20.md) - 2026-08-22
 
 [銀行轉帳系統設計](./notes/entries/sql/2026-08-21-銀行轉帳系統設計-n19.md) - 2026-08-21
 
@@ -31,8 +33,6 @@
 [Footwear Factory Routing Demo](./notes/entries/erp/2026-08-06-footwear-factory-routing-demo-n12.md) - 2026-08-06
 
 [虛件號（Phantom Item）與關鍵件號（Critical Item）](./notes/entries/erp/2026-07-29-虛件號-phantom-item-與關鍵件號-critical-item-n11.md) - 2026-07-29
-
-[專案編號（Project No）與專案序號（Project Seq）](./notes/entries/erp/2026-07-27-專案編號-project-no-與專案序號-project-seq-n10.md) - 2026-07-27
 
 [查看全部學習筆記](./notes/README.md)
 

@@ -43,4 +43,5 @@ Personal Learning & Workspace 發布的公開筆記。
 
 ## 網路
 
+- [Bitcoin Simulation System — Technical Design Document](./entries/網路/2026-08-22-bitcoin-simulation-system-technical-design-document-n20.md) - 2026-08-22
 - [從 Philips Camera 實驗理解網路](./entries/網路/2026-08-15-從-philips-camera-實驗理解網路-n18.md) - 2026-08-15
