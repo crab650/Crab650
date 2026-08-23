@@ -45,3 +45,7 @@ Personal Learning & Workspace 發布的公開筆記。
 
 - [Bitcoin Simulation System — Technical Design Document](./entries/網路/2026-08-22-bitcoin-simulation-system-technical-design-document-n20.md) - 2026-08-22
 - [從 Philips Camera 實驗理解網路](./entries/網路/2026-08-15-從-philips-camera-實驗理解網路-n18.md) - 2026-08-15
+
+## 鞋業 MES
+
+- [從產品版本到自動扣料](./entries/鞋業-mes/2026-08-24-從產品版本到自動扣料-n21.md) - 2026-08-24
