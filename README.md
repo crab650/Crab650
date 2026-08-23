@@ -4,9 +4,9 @@
 
 ## 學習頻率
 
-![學習頻率：2026-07-01 至 2026-08-31](./assets/learning-frequency.svg?v=2026-08-23-1b078248646a)
+![學習頻率：2026-07-01 至 2026-08-31](./assets/learning-frequency.svg?v=2026-08-23-eed3e1680c11)
 
-🔥 目前連續學習：10 天　🏆 最長連續：10 天　📚 此區間學習：27 天
+🔥 目前連續學習：11 天　🏆 最長連續：11 天　📚 此區間學習：28 天
 
 <!-- LEARNING-HEATMAP:END -->
 
@@ -62,76 +62,76 @@
 
 ## 📚 今日語言學習
 
-> 學習日期：2026-08-21（Asia/Bangkok）
+> 學習日期：2026-08-23（Asia/Bangkok）
 
 | 語言 | 練習次數 | 不同句子 | 答對 | 答錯 | 播音 | 看答案 |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| English | 33 | 30 | 31 | 2 | 104 | 0 |
+| English | 36 | 33 | 34 | 2 | 92 | 0 |
 
 ### English
 
-- **The old housekeeper got very sick if she touched peach fuzz, the soft hair on a peach.**
-  - 老管家如果碰到水蜜桃的毛（水蜜桃表面細細的絨毛），就會病得很嚴重。
+- **"It is the smell of poor people."**
+  - 「這是窮人的味道。」
+  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
+- **"It is the smell of this basement."**
+  - 「這是這個地下室的味道。」
   - 練習 1 次｜答對 1｜答錯 0｜播音 6 次
-- **They found out a secret.**
-  - 他們發現了一個秘密。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **The brother and sister watched her closely.**
-  - 這對兄妹仔細地觀察她。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **She knew everything about the house.**
-  - 她對這棟房子的一切瞭如指掌。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **She worked for the man who built the house.**
-  - 她曾幫建造這棟房子的前任主人工作過。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **But the old housekeeper was hard to beat.**
-  - 但是要除掉原本的老管家可不容易。
+- **"It is not the soap," she snapped.**
+  - 「這不是肥皂的問題，」她沒好氣地說。
   - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
-- **They wanted her to be the new housekeeper.**
-  - 他們希望她能成為新的管家。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 6 次
-- **Now three of them had jobs; only the mother was left.**
-  - 現在他們家有三個人都有了工作，只剩下母親還沒有工作。
+- **But Jessica looked cold.**
+  - 但潔西卡神色冰冷。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **"We must use different soap," he whispered.**
+  - 「我們必須用不同的肥皂，」他低聲說。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
+- **When they went back to their basement, Father Kim was scared.**
+  - 當他們回到地下室時，父親金基澤感到害怕了。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **He yelled, "They all smell the same."**
+  - 他大喊：「他們身上的味道都一樣！」
+  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
+- **He smelled them like a dog.**
+  - 他像狗一樣聞了聞他們身上的味道。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
+- **The little boy ran up to them.**
+  - 那個小男孩跑向他們。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
+- **Then something bad happened.**
+  - 然後，糟糕的事情發生了。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **She worked in the giant house.**
+  - 她開始在這棟豪宅裡工作。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **She acted perfectly.**
+  - 她的表現完美無缺。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **Soon the new housekeeper arrived; it was the mother.**
+  - 不久後，新管家上任了，正是他們的母親。
   - 練習 1 次｜答對 1｜答錯 0｜播音 4 次
-- **He hired him.**
-  - 於是僱用了他。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **Mr. Park loved him.**
-  - 朴先生非常中意他。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **He said all the right words.**
-  - 他說的每一句話都恰到好處。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **He played Mr. Park's favorite music.**
-  - 他播放了朴先生最喜歡的音樂。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **He did not spill a drop of coffee.**
-  - 他連一滴咖啡都沒有灑出來。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 5 次
-- **Father Kim drove perfectly.**
-  - 父親金基澤開得完美無瑕。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **The next day, Father Kim drove Mr. Park.**
-  - 隔天，父親金基澤開車接送朴先生。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
-- **Father Kim drove the exact same Mercedes to practice.**
-  - 父親金基澤開著一模一樣的賓士車來進行練習。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 6 次
-- **They pretended to buy a car.**
-  - 他們假裝要買車。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **Before the meeting, to be safe, Kevin and his dad went to a car shop.**
-  - 見面前，為了保險起見，凱文和他爸爸去了一家汽車展示店。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 5 次
-- **He drove an old man she used to know.**
-  - 他以前曾幫她認識的一位長輩開車。
+- **It was for a company of the best housekeepers.**
+  - 上面寫著這是一家擁有頂級管家服務的公司。
   - 練習 1 次｜答對 1｜答錯 0｜播音 4 次
-- **She told Mrs. Park she knew a great man.**
-  - 她告訴朴太太，她認識一位非常優秀的人選。
+- **He gave Mr. Park a fake card.**
+  - 他給了朴先生一張假名片。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **Father Kim smiled.**
+  - 父親金基澤笑了笑。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **But now Mr. Park worried his house would be a mess.**
+  - 但現在朴先生擔心家裡會一團亂。
   - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
-- 另有 10 個句子，請查看完整紀錄。
+- **She just ate too much food.**
+  - 就是吃得稍微多了一點。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **He told Father Kim that the old housekeeper was a good worker.**
+  - 他告訴父親金基澤，老管家其實是個很好的員工。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
+- **Mr. Park was sad.**
+  - 朴先生感到有些遺憾。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- 另有 13 個句子，請查看完整紀錄。
 
-[查看 2026-08-21 完整學習紀錄](./study-log/2026/08/2026-08-21.md)
+[查看 2026-08-23 完整學習紀錄](./study-log/2026/08/2026-08-23.md)
 
 <!-- LANGUAGE-STUDY:END -->
