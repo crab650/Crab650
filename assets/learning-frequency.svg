@@ -16,7 +16,7 @@
 <rect x="118" y="92" width="43" height="43" rx="5" fill="none" stroke="none" stroke-width="1"><title>2026-06-30: 0 learning item(s) (no activity)</title></rect>
 <rect x="167" y="92" width="43" height="43" rx="5" fill="#30363d" stroke="#484f58" stroke-width="1"><title>2026-07-01: 0 learning item(s) (no activity)</title></rect>
 <text class="day" x="188.5" y="119" text-anchor="middle">1</text>
-<rect x="216" y="92" width="43" height="43" rx="5" fill="#30363d" stroke="#484f58" stroke-width="1"><title>2026-07-02: 0 learning item(s) (no activity)</title></rect>
+<rect x="216" y="92" width="43" height="43" rx="5" fill="#216e39" stroke="#484f58" stroke-width="1"><title>2026-07-02: 8 learning item(s) (question: 8)</title></rect>
 <text class="day" x="237.5" y="119" text-anchor="middle">2</text>
 <rect x="265" y="92" width="43" height="43" rx="5" fill="#30363d" stroke="#484f58" stroke-width="1"><title>2026-07-03: 0 learning item(s) (no activity)</title></rect>
 <text class="day" x="286.5" y="119" text-anchor="middle">3</text>
@@ -36,9 +36,9 @@
 <text class="day" x="286.5" y="168" text-anchor="middle">10</text>
 <rect x="314" y="141" width="43" height="43" rx="5" fill="#30363d" stroke="#484f58" stroke-width="1"><title>2026-07-11: 0 learning item(s) (no activity)</title></rect>
 <text class="day" x="335.5" y="168" text-anchor="middle">11</text>
-<rect x="20" y="190" width="43" height="43" rx="5" fill="#216e39" stroke="#484f58" stroke-width="1"><title>2026-07-12: 27 learning item(s) (language: 24, tmq: 3)</title></rect>
+<rect x="20" y="190" width="43" height="43" rx="5" fill="#216e39" stroke="#484f58" stroke-width="1"><title>2026-07-12: 24 learning item(s) (language: 24)</title></rect>
 <text class="day" x="41.5" y="217" text-anchor="middle">12</text>
-<rect x="69" y="190" width="43" height="43" rx="5" fill="#216e39" stroke="#484f58" stroke-width="1"><title>2026-07-13: 31 learning item(s) (language: 27, til: 1, tmq: 3)</title></rect>
+<rect x="69" y="190" width="43" height="43" rx="5" fill="#216e39" stroke="#484f58" stroke-width="1"><title>2026-07-13: 28 learning item(s) (language: 27, til: 1)</title></rect>
 <text class="day" x="90.5" y="217" text-anchor="middle">13</text>
 <rect x="118" y="190" width="43" height="43" rx="5" fill="#216e39" stroke="#484f58" stroke-width="1"><title>2026-07-14: 53 learning item(s) (language: 51, til: 2)</title></rect>
 <text class="day" x="139.5" y="217" text-anchor="middle">14</text>
