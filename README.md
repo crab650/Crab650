@@ -4,9 +4,9 @@
 
 ## 學習頻率
 
-![學習頻率：2026-07-01 至 2026-08-31](./assets/learning-frequency.svg?v=2026-08-25-45039286a24d)
+![學習頻率：2026-07-01 至 2026-08-31](./assets/learning-frequency.svg?v=2026-08-26-ea7baa256f77)
 
-🔥 目前連續學習：13 天　🏆 最長連續：13 天　📚 此區間學習：31 天
+🔥 目前連續學習：14 天　🏆 最長連續：14 天　📚 此區間學習：32 天
 
 <!-- LEARNING-HEATMAP:END -->
 
@@ -62,76 +62,45 @@
 
 ## 📚 今日語言學習
 
-> 學習日期：2026-08-25（Asia/Bangkok）
+> 學習日期：2026-08-26（Asia/Bangkok）
 
 | 語言 | 練習次數 | 不同句子 | 答對 | 答錯 | 播音 | 看答案 |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| English | 25 | 23 | 25 | 0 | 69 | 0 |
+| English | 14 | 10 | 10 | 4 | 36 | 0 |
 
 ### English
 
+- **Thunder cracked outside; the rain poured down.**
+  - 外面雷聲大作，暴雨傾盆而下。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 4 次
+- **"Money is a hot iron; it irons out all the wrinkles of life."**
+  - 「錢就是熨斗，能把生活中的所有褶皺都燙得平平整整。」
+  - 練習 5 次｜答對 1｜答錯 4｜播音 12 次
+- **"She is not nice and rich; she is nice because she is rich."**
+  - 「她不是人好又有錢，她是『因為有錢』所以才善良。」
+  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
+- **The mother was eating dog food; she snapped at him.**
+  - 正在吃狗食的母親對他吼道：
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **"Mrs. Park is very nice and kind," he smiled.**
+  - 「朴太太人真的很好、很善良，」他微笑著。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
+- **Father Kim nodded.**
+  - 父親金基澤點了點頭。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **"This family is so easy to trick," he laughed.**
+  - 「這家人真是太容易糊弄了，」他笑著說。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
+- **He talked about how to act at the wedding so the rich people would not know.**
+  - 他談論著在婚禮上要如何表現，才不會讓那些有錢人看穿底細。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 6 次
+- **He said he would marry the rich girl.**
+  - 他說他要娶那個有錢人的女兒。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
 - **Kevin was a little drunk.**
   - 凱文有些醉意了。
   - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **It was actually the rich dog's food.**
-  - 那實際上是這家名貴寵物狗的飼料。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 4 次
-- **She thought it was expensive beef.**
-  - 她以為那是昂貴的牛肉乾。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **Jessica ate snacks on the table.**
-  - 潔西卡吃著桌上的零食。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **They could not even taste the good stuff.**
-  - 他們甚至根本品嚐不出好酒的味道。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
-- **But the truth was they only drank slowly so their stomachs could hold more types of expensive drink.**
-  - 但事實上，他們喝得慢只是為了讓胃能裝下更多種類的貴酒。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 9 次
-- **They wanted to feel rich.**
-  - 他們想要體驗有錢人的感覺。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **They drank slowly.**
-  - 他們慢慢地品嚐。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **They poured tiny bits into glasses.**
-  - 他們把一點點酒倒進玻璃杯裡。
-  - 練習 2 次｜答對 2｜答錯 0｜播音 4 次
-- **But they did not drink like wild people.**
-  - 但他們並沒有像沒見過世面的人一樣狂飲。
-  - 練習 2 次｜答對 2｜答錯 0｜播音 3 次
-- **They took eight bottles of expensive alcohol.**
-  - 他們拿了八瓶昂貴的名酒。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 7 次
-- **The four of them sat in the huge living room.**
-  - 他們四個人坐在寬敞的客廳裡。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 4 次
-- **At night, it started to rain.**
-  - 到了晚上，開始下起了暴雨。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
-- **It was a dream.**
-  - 這簡直像是一場夢。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **She watched the rich TV.**
-  - 她看著有錢人的大電視。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **Jessica took a long bath in the giant tub.**
-  - 潔西卡在巨大的浴缸裡洗了個舒服的熱水澡。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 4 次
-- **Kevin lay on the soft green grass in the sun.**
-  - 凱文躺在陽光下柔和的綠色草地上。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 4 次
-- **They acted like they owned it.**
-  - 他們表現得就像自己是這棟房子的主人一樣。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **They took over the house.**
-  - 他們佔領了這棟豪宅。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **The poor family dropped their act.**
-  - 這窮困的一家人放下了偽裝。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- 另有 3 個句子，請查看完整紀錄。
 
-[查看 2026-08-25 完整學習紀錄](./study-log/2026/08/2026-08-25.md)
+[查看 2026-08-26 完整學習紀錄](./study-log/2026/08/2026-08-26.md)
 
 <!-- LANGUAGE-STUDY:END -->
