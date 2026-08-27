@@ -37,6 +37,10 @@ Personal Learning & Workspace 發布的公開筆記。
 
 - [銀行轉帳系統設計](./entries/sql/2026-08-21-銀行轉帳系統設計-n19.md) - 2026-08-21
 
+## Uncategorized
+
+- [OpenMES 02–04 深化計畫](./entries/uncategorized/2026-08-27-openmes-02-04-深化計畫-n23.md) - 2026-08-27
+
 ## 數據分析
 
 - [Local Data Analytics Platform](./entries/數據分析/2026-07-14-local-data-analytics-platform-n4.md) - 2026-07-14

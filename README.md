@@ -4,15 +4,17 @@
 
 ## 學習頻率
 
-![學習頻率：2026-07-01 至 2026-08-31](./assets/learning-frequency.svg?v=2026-08-26-ea7baa256f77)
+![學習頻率：2026-07-01 至 2026-08-31](./assets/learning-frequency.svg?v=2026-08-27-4a73eb9c8f11)
 
-🔥 目前連續學習：14 天　🏆 最長連續：14 天　📚 此區間學習：32 天
+🔥 目前連續學習：15 天　🏆 最長連續：15 天　📚 此區間學習：33 天
 
 <!-- LEARNING-HEATMAP:END -->
 
 <!-- LEARNING-NOTES:START -->
 
 ## TIL — Today I Learned
+
+[OpenMES 02–04 深化計畫](./notes/entries/uncategorized/2026-08-27-openmes-02-04-深化計畫-n23.md) - 2026-08-27
 
 [生產工單與漸進式報工功能複習](./notes/entries/鞋業-mes/2026-08-25-生產工單與漸進式報工功能複習-n22.md) - 2026-08-25
 
@@ -31,8 +33,6 @@
 [當 AI 讓寫程式變便宜，什麼會變貴？](./notes/entries/ai/2026-08-10-當-ai-讓寫程式變便宜-什麼會變貴-n15.md) - 2026-08-10
 
 [Flask SECRET_KEY：為什麼 Session 需要簽章？](./notes/entries/python/2026-08-10-flask-secret-key-為什麼-session-需要簽章-n14.md) - 2026-08-10
-
-[Flask 測試隔離：學習指南與實作範例](./notes/entries/python/2026-08-07-flask-測試隔離-學習指南與實作範例-n13.md) - 2026-08-07
 
 [查看全部學習筆記](./notes/README.md)
 
