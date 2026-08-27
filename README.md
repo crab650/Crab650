@@ -4,9 +4,9 @@
 
 ## 學習頻率
 
-![學習頻率：2026-07-01 至 2026-08-31](./assets/learning-frequency.svg?v=2026-08-27-4a73eb9c8f11)
+![學習頻率：2026-07-01 至 2026-08-31](./assets/learning-frequency.svg?v=2026-08-28-17516eae3c8c)
 
-🔥 目前連續學習：15 天　🏆 最長連續：15 天　📚 此區間學習：33 天
+🔥 目前連續學習：16 天　🏆 最長連續：16 天　📚 此區間學習：34 天
 
 <!-- LEARNING-HEATMAP:END -->
 
@@ -62,45 +62,76 @@
 
 ## 📚 今日語言學習
 
-> 學習日期：2026-08-26（Asia/Bangkok）
+> 學習日期：2026-08-28（Asia/Bangkok）
 
 | 語言 | 練習次數 | 不同句子 | 答對 | 答錯 | 播音 | 看答案 |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| English | 14 | 10 | 10 | 4 | 36 | 0 |
+| English | 36 | 33 | 36 | 0 | 81 | 0 |
 
 ### English
 
-- **Thunder cracked outside; the rain poured down.**
-  - 外面雷聲大作，暴雨傾盆而下。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 4 次
-- **"Money is a hot iron; it irons out all the wrinkles of life."**
-  - 「錢就是熨斗，能把生活中的所有褶皺都燙得平平整整。」
-  - 練習 5 次｜答對 1｜答錯 4｜播音 12 次
-- **"She is not nice and rich; she is nice because she is rich."**
-  - 「她不是人好又有錢，她是『因為有錢』所以才善良。」
-  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
-- **The mother was eating dog food; she snapped at him.**
-  - 正在吃狗食的母親對他吼道：
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **"Mrs. Park is very nice and kind," he smiled.**
-  - 「朴太太人真的很好、很善良，」他微笑著。
+- **Just then, a loud noise happened on the stairs.**
+  - 就在這時，樓梯上傳來一聲巨響。
   - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **Father Kim nodded.**
-  - 父親金基澤點了點頭。
+- **"I am calling the police," she snapped.**
+  - 「我要報警，」她厲聲說道。
   - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **"This family is so easy to trick," he laughed.**
-  - 「這家人真是太容易糊弄了，」他笑著說。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
-- **He talked about how to act at the wedding so the rich people would not know.**
-  - 他談論著在婚禮上要如何表現，才不會讓那些有錢人看穿底細。
+- **She took out her phone.**
+  - 她拿出了手機。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
+- **She only wanted to protect her own job.**
+  - 她只想保護自己的飯碗。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **She did not care.**
+  - 她並不在乎。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **The mother just stared coldly.**
+  - 母親只是冷冷地看著。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **The old housekeeper cried, "If he goes outside, the bad men will kill him. He hid here for 4 years."**
+  - 老管家哭著說：「如果他走到外面，壞人會殺了他的。他在這裡躲了四年。」
   - 練習 1 次｜答對 1｜答錯 0｜播音 6 次
-- **He said he would marry the rich girl.**
-  - 他說他要娶那個有錢人的女兒。
+- **Living in the dark for years had made him completely crazy.**
+  - 在黑暗中生活了數年，已經讓他徹底發瘋了。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 4 次
+- **This was the old housekeeper's husband.**
+  - 這就是老管家的丈夫。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **He was starving.**
+  - 他正處於飢餓瀕死狀態。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **A man lay on the floor; he looked like a skeleton.**
+  - 一個男人躺在地板上，瘦得像具骷髏。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **It looked like a bomb shelter.**
+  - 那裡看起來像是一個防空洞。
+  - 練習 2 次｜答對 2｜答錯 0｜播音 2 次
+- **At the bottom, there was a secret room.**
+  - 在最底部，有一個秘密房間。
   - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **Kevin was a little drunk.**
-  - 凱文有些醉意了。
+- **The tunnel went deep under the house.**
+  - 這個通道一直延伸到房子的極深處。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 5 次
+- **The mother followed her down the tight stairs.**
+  - 母親跟著她走下狹窄的樓梯。
   - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
+- **The old housekeeper yelled, "Husband!" and ran down into the black hole.**
+  - 老管家大喊著「老公！」並跑進了那個黑洞中。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 7 次
+- **Behind the shelf was a dark, deep tunnel.**
+  - 在架子後面，竟然隱藏著一個漆黑深邃的通道。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
+- **The mother was shocked.**
+  - 母親震驚無比。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **She pushed a huge wooden shelf on the wall.**
+  - 她推開了牆上的一座巨大木製架子。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 8 次
+- **The old housekeeper ran downstairs.**
+  - 老管家立刻奔向地下室。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
+- 另有 13 個句子，請查看完整紀錄。
 
-[查看 2026-08-26 完整學習紀錄](./study-log/2026/08/2026-08-26.md)
+[查看 2026-08-28 完整學習紀錄](./study-log/2026/08/2026-08-28.md)
 
 <!-- LANGUAGE-STUDY:END -->
