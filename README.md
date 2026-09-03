@@ -4,9 +4,9 @@
 
 ## 學習頻率
 
-![學習頻率：2026-08-01 至 2026-09-30](./assets/learning-frequency.svg?v=2026-09-02-349b74561411)
+![學習頻率：2026-08-01 至 2026-09-30](./assets/learning-frequency.svg?v=2026-09-03-2ed42875c818)
 
-🔥 目前連續學習：1 天　🏆 最長連續：17 天　📚 此區間學習：23 天
+🔥 目前連續學習：2 天　🏆 最長連續：17 天　📚 此區間學習：24 天
 
 <!-- LEARNING-HEATMAP:END -->
 
@@ -62,74 +62,57 @@
 
 ## 📚 今日語言學習
 
-> 學習日期：2026-09-02（Asia/Bangkok）
+> 學習日期：2026-09-03（Asia/Bangkok）
 
 | 語言 | 練習次數 | 不同句子 | 答對 | 答錯 | 播音 | 看答案 |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| English | 97 | 96 | 96 | 1 | 286 | 0 |
+| English | 17 | 14 | 16 | 1 | 50 | 0 |
 
 ### English
 
-- **The New Economic Quarterly criticized the ___ of all new products produced by Yun Sung Industrial Co., Ltd.**
-  - 練習 1 次｜答對 1｜答錯 0｜播音 0 次
-- **Those employees wishing to change departments ___ the company may send their inquiries to Mr. Alvarez.**
-  - 那些希望在公司內部更換部門的員工，可以將他們的詢問發送給阿爾瓦雷斯先生。
-  - 練習 2 次｜答對 1｜答錯 1｜播音 0 次
-- **Our apartment building's occupancy increased ___ the efforts of our knowledgeable and friendly rental agent, Ms. Gova.**
-  - 我們公寓大樓的住房率增加，歸功於我們知識淵博且友善的租賃經理 Gova 女士所做的努力。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 0 次
-- **Mr. Singh requested ___ from several catering companies before making his decision.**
-  - 在做出決定之前，Singh 先生向幾家外燴公司索取了報價單。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 0 次
-- **Have you finished reviewing the budget proposal yet?**
-  - 練習 1 次｜答對 1｜答錯 0｜播音 4 次
-- **Under the table, the three poor people heard everything.**
-  - 桌子底下的三個窮人聽得一清二楚。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
-- **"If you wore those cheap panties, I would get so excited," he whispered.**
-  - 「如果你穿上那條廉價內褲，我會興奮無比，」他低聲調情。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
-- **Mr. Park talked about the cheap underwear he found in his car.**
-  - 朴先生提到了他在車裡發現的那條廉價內褲。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
-- **They talked dirty.**
-  - 他們說起了露骨的情話。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **Above them, the rich husband and wife started to touch each other.**
-  - 在他們上方，這對有錢夫婦開始撫摸彼此。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
-- **His eyes filled with pain and shame.**
-  - 他的眼中充滿了痛苦與羞愧。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 4 次
-- **He grabbed his own shirt and smelled himself.**
-  - 他抓起自己的衣服聞了聞自己。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **Under the table, Father Kim heard this.**
-  - 躲在桌子底下的父親金基澤聽到了這句話。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **"That smell crosses the line."**
-  - 「那個味道實在是越界了。」
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **"The new driver smells like an old wet rag," he said.**
-  - 「新司機身上有一股老舊濕抹布的味道，」他說。
+- **The rain did not hurt the rich house, but it destroyed the poor town.**
+  - 這場大雨沒有傷及山上的豪宅毫分，卻徹底摧毀了這座窮人的小鎮。
   - 練習 1 次｜答對 1｜答錯 0｜播音 6 次
-- **He talked to his wife.**
-  - 他對他的妻子說道。
+- **When they got to their street, the water was up to their knees.**
+  - 當他們回到自己住的街道時，積水已經深及膝蓋。
+  - 練習 3 次｜答對 2｜答錯 1｜播音 8 次
+- **It was a long journey from heaven to hell.**
+  - 這是一段從天堂墜落到地獄的漫長旅程。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
+- **They ran downstairs, down tunnels, down, down, down.**
+  - 他們跑下長長的台階、跑過地下通道，不斷地向下、向下、向下。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 4 次
+- **Water flows down; the rich lived high up, the poor lived at the bottom.**
+  - 水往低處流；有錢人住在山頂高處，窮人則住在最底層。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 4 次
+- **They ran down the hill.**
+  - 他們一路朝山下奔跑。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
+- **They ran out the door into the pouring rain.**
+  - 他們衝出大門，奔入傾盆大雨之中。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 5 次
+- **The three Kims crawled out like rats.**
+  - 金家三人像老鼠一樣悄悄爬了出來。
   - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **Suddenly, Mr. Park sniffed the air.**
-  - 突然，朴先生嗅了嗅空氣中的味道。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 4 次
-- **Their hearts beat so hard; only the loud rain outside hid the sound.**
-  - 他們的心臟劇烈地跳動著，只有外面巨大的雨聲才能掩蓋這聲音。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 6 次
-- **They lay flat on the floor in the dark.**
-  - 他們在黑暗中平躺在地板上。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 4 次
-- **They quickly crawled under the big table.**
-  - 他們迅速爬到大桌子底下。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 4 次
-- 另有 76 個句子，請查看完整紀錄。
+- **Finally, the rich parents fell asleep.**
+  - 終於，那對有錢夫婦睡著了。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 5 次
+- **They waited in hell for a long time.**
+  - 他們在猶如地獄般的折磨中等待了很久。
+  - 練習 2 次｜答對 2｜答錯 0｜播音 5 次
+- **They felt worse than dead.**
+  - 他們感到比死還要難受。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
+- **Their pride was completely destroyed.**
+  - 他們的自尊心被徹底擊碎了。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **They felt naked.**
+  - 他們感到自己彷彿被剝光了一般。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **They knew exactly whose underwear that was.**
+  - 他們無比清楚那條內褲是誰的。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
 
-[查看 2026-09-02 完整學習紀錄](./study-log/2026/09/2026-09-02.md)
+[查看 2026-09-03 完整學習紀錄](./study-log/2026/09/2026-09-03.md)
 
 <!-- LANGUAGE-STUDY:END -->
