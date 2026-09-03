@@ -82,7 +82,7 @@
 <rect x="118" y="337" width="43" height="43" rx="5" fill="none" stroke="none" stroke-width="1"><title>2026-09-01: 0 learning item(s) (no activity)</title></rect>
 <rect x="167" y="337" width="43" height="43" rx="5" fill="none" stroke="none" stroke-width="1"><title>2026-09-02: 98 learning item(s) (language: 98)</title></rect>
 <rect x="216" y="337" width="43" height="43" rx="5" fill="none" stroke="none" stroke-width="1"><title>2026-09-03: 17 learning item(s) (language: 17)</title></rect>
-<rect x="265" y="337" width="43" height="43" rx="5" fill="none" stroke="none" stroke-width="1"><title>2026-09-04: 0 learning item(s) (no activity)</title></rect>
+<rect x="265" y="337" width="43" height="43" rx="5" fill="none" stroke="none" stroke-width="1"><title>2026-09-04: 10 learning item(s) (language: 10)</title></rect>
 <rect x="314" y="337" width="43" height="43" rx="5" fill="none" stroke="none" stroke-width="1"><title>2026-09-05: 0 learning item(s) (no activity)</title></rect>
 <text class="month" x="420" y="48">September 2026</text>
 <text class="small" x="441.5" y="75" text-anchor="middle">Sun</text>
@@ -100,7 +100,7 @@
 <text class="day" x="588.5" y="119" text-anchor="middle">2</text>
 <rect x="616" y="92" width="43" height="43" rx="5" fill="#39d353" stroke="#484f58" stroke-width="1"><title>2026-09-03: 17 learning item(s) (language: 17)</title></rect>
 <text class="day" x="637.5" y="119" text-anchor="middle">3</text>
-<rect x="665" y="92" width="43" height="43" rx="5" fill="none" stroke="#484f58" stroke-width="1"><title>2026-09-04: 0 learning item(s) (no activity)</title></rect>
+<rect x="665" y="92" width="43" height="43" rx="5" fill="#39d353" stroke="#484f58" stroke-width="1"><title>2026-09-04: 10 learning item(s) (language: 10)</title></rect>
 <text class="day" x="686.5" y="119" text-anchor="middle">4</text>
 <rect x="714" y="92" width="43" height="43" rx="5" fill="none" stroke="#484f58" stroke-width="1"><title>2026-09-05: 0 learning item(s) (no activity)</title></rect>
 <text class="day" x="735.5" y="119" text-anchor="middle">5</text>

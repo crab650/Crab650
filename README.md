@@ -4,9 +4,9 @@
 
 ## 學習頻率
 
-![學習頻率：2026-08-01 至 2026-09-30](./assets/learning-frequency.svg?v=2026-09-03-2ed42875c818)
+![學習頻率：2026-08-01 至 2026-09-30](./assets/learning-frequency.svg?v=2026-09-04-629f85a66d50)
 
-🔥 目前連續學習：2 天　🏆 最長連續：17 天　📚 此區間學習：24 天
+🔥 目前連續學習：3 天　🏆 最長連續：17 天　📚 此區間學習：25 天
 
 <!-- LEARNING-HEATMAP:END -->
 
@@ -62,57 +62,36 @@
 
 ## 📚 今日語言學習
 
-> 學習日期：2026-09-03（Asia/Bangkok）
+> 學習日期：2026-09-04（Asia/Bangkok）
 
 | 語言 | 練習次數 | 不同句子 | 答對 | 答錯 | 播音 | 看答案 |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| English | 17 | 14 | 16 | 1 | 50 | 0 |
+| English | 10 | 7 | 9 | 1 | 31 | 0 |
 
 ### English
 
-- **The rain did not hurt the rich house, but it destroyed the poor town.**
-  - 這場大雨沒有傷及山上的豪宅毫分，卻徹底摧毀了這座窮人的小鎮。
+- **Dirty sewer water shot up from the pipes.**
+  - 髒黑的下水道污水從水管中猛烈噴射出來。
+  - 練習 2 次｜答對 2｜答錯 0｜播音 2 次
+- **He grabbed his wife's old sports medal at the back of the room.**
+  - 他拿到放在房間後方、妻子當年的運動獎牌。
+  - 練習 3 次｜答對 2｜答錯 1｜播音 18 次
+- **Father Kim swam through the disgusting water.**
+  - 父親金基澤在噁心的污水中游著。
   - 練習 1 次｜答對 1｜答錯 0｜播音 6 次
-- **When they got to their street, the water was up to their knees.**
-  - 當他們回到自己住的街道時，積水已經深及膝蓋。
-  - 練習 3 次｜答對 2｜答錯 1｜播音 8 次
-- **It was a long journey from heaven to hell.**
-  - 這是一段從天堂墜落到地獄的漫長旅程。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
-- **They ran downstairs, down tunnels, down, down, down.**
-  - 他們跑下長長的台階、跑過地下通道，不斷地向下、向下、向下。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 4 次
-- **Water flows down; the rich lived high up, the poor lived at the bottom.**
-  - 水往低處流；有錢人住在山頂高處，窮人則住在最底層。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 4 次
-- **They ran down the hill.**
-  - 他們一路朝山下奔跑。
+- **The water was full of trash.**
+  - 水面上漂浮著各種垃圾。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **Black water reached their chests.**
+  - 黑色的髒水已經淹到了他們的胸口。
   - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **They ran out the door into the pouring rain.**
-  - 他們衝出大門，奔入傾盆大雨之中。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 5 次
-- **The three Kims crawled out like rats.**
-  - 金家三人像老鼠一樣悄悄爬了出來。
+- **The basement was completely flooded.**
+  - 地下室已經完全被洪水淹沒。
   - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **Finally, the rich parents fell asleep.**
-  - 終於，那對有錢夫婦睡著了。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 5 次
-- **They waited in hell for a long time.**
-  - 他們在猶如地獄般的折磨中等待了很久。
-  - 練習 2 次｜答對 2｜答錯 0｜播音 5 次
-- **They felt worse than dead.**
-  - 他們感到比死還要難受。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
-- **Their pride was completely destroyed.**
-  - 他們的自尊心被徹底擊碎了。
+- **They ran to their home.**
+  - 他們奔回自己的家。
   - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **They felt naked.**
-  - 他們感到自己彷彿被剝光了一般。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **They knew exactly whose underwear that was.**
-  - 他們無比清楚那條內褲是誰的。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
 
-[查看 2026-09-03 完整學習紀錄](./study-log/2026/09/2026-09-03.md)
+[查看 2026-09-04 完整學習紀錄](./study-log/2026/09/2026-09-04.md)
 
 <!-- LANGUAGE-STUDY:END -->
