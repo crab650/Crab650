@@ -4,9 +4,9 @@
 
 ## 學習頻率
 
-![學習頻率：2026-08-01 至 2026-09-30](./assets/learning-frequency.svg?v=2026-09-09-629f85a66d50)
+![學習頻率：2026-08-01 至 2026-09-30](./assets/learning-frequency.svg?v=2026-09-09-7d5fcdfbf3d4)
 
-🔥 目前連續學習：0 天　🏆 最長連續：17 天　📚 此區間學習：25 天
+🔥 目前連續學習：1 天　🏆 最長連續：17 天　📚 此區間學習：26 天
 
 <!-- LEARNING-HEATMAP:END -->
 
@@ -62,36 +62,76 @@
 
 ## 📚 今日語言學習
 
-> 學習日期：2026-09-04（Asia/Bangkok）
+> 學習日期：2026-09-09（Asia/Bangkok）
 
 | 語言 | 練習次數 | 不同句子 | 答對 | 答錯 | 播音 | 看答案 |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| English | 10 | 7 | 9 | 1 | 31 | 0 |
+| English | 41 | 34 | 41 | 0 | 108 | 0 |
 
 ### English
 
-- **Dirty sewer water shot up from the pipes.**
-  - 髒黑的下水道污水從水管中猛烈噴射出來。
-  - 練習 2 次｜答對 2｜答錯 0｜播音 2 次
-- **He grabbed his wife's old sports medal at the back of the room.**
-  - 他拿到放在房間後方、妻子當年的運動獎牌。
-  - 練習 3 次｜答對 2｜答錯 1｜播音 18 次
-- **Father Kim swam through the disgusting water.**
-  - 父親金基澤在噁心的污水中游著。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 6 次
-- **The water was full of trash.**
-  - 水面上漂浮著各種垃圾。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **Black water reached their chests.**
-  - 黑色的髒水已經淹到了他們的胸口。
+- **"The sky is so blue today thanks to all the rain yesterday," she cheered.**
+  - 「多虧了昨天的這場大雨，今天的空氣真好，天空真藍啊，」她高興地歡呼。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 7 次
+- **Mrs. Park looked out the window.**
+  - 朴太太看著窗外。
   - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **The basement was completely flooded.**
-  - 地下室已經完全被洪水淹沒。
+- **He drove the exact same Mercedes for Mrs. Park.**
+  - 他開著同一輛賓士車為朴太太載貨。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 8 次
+- **His face looked dead.**
+  - 他的臉上毫無生氣，神色冰冷。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
+- **Father Kim wore old clothes from a donation box.**
+  - 父親金基澤穿著從救濟捐贈箱裡拿來的舊衣服。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
+- **She called the Kim family and told them to come work.**
+  - 她打電話給金家人，叫他們過來幫忙工作。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 6 次
+- **She called all her rich friends.**
+  - 她打電話邀請了她所有的有錢人朋友。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
+- **She wanted to throw a giant birthday party in her yard.**
+  - 她想要在自家庭院裡舉辦一場盛大的生日派對。
+  - 練習 2 次｜答對 2｜答錯 0｜播音 3 次
+- **Up on the hill, Mrs. Park was very happy.**
+  - 在山上的豪宅裡，朴太太非常高興。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
+- **The rain was gone.**
+  - 暴雨已經停了。
   - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **They ran to their home.**
-  - 他們奔回自己的家。
+- **The next morning, the sun was bright and hot.**
+  - 隔天早上，陽光燦爛而炙熱。
   - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **Father Kim closed his eyes.**
+  - 父親金基澤閉上了眼睛。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **"If you have no plan, nothing goes wrong."**
+  - 「只要你沒有計畫，就不會出任何紕漏。」
+  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
+- **"No. Poor people should never have a plan."**
+  - 「沒有。窮人永遠不該有計畫。」
+  - 練習 1 次｜答對 1｜答錯 0｜播音 4 次
+- **"Did these people plan to sleep on a floor tonight?"**
+  - 「今晚躺在這裡睡地板的這些人，難道有計畫過今晚要睡在體育館嗎？」
+  - 練習 1 次｜答對 1｜答錯 0｜播音 4 次
+- **"No plan at all. No plan."**
+  - 「就是『沒有計畫』。毫無計畫。」
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **Father Kim looked at the ceiling with dead eyes.**
+  - 父親金基澤用空洞死寂的眼神看著天花板。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 4 次
+- **"Kevin, do you know what kind of plan never fails?" he asked.**
+  - 「凱文，你知道什麼樣的計畫永遠不會失敗嗎？」他問。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
+- **Kevin lay next to his dad.**
+  - 凱文躺在爸爸身旁。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
+- **That night, hundreds of poor people slept on the cold floor of a big gym.**
+  - 那天晚上，數百名災民睡在一間大型體育館冰冷的地板上。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 8 次
+- 另有 14 個句子，請查看完整紀錄。
 
-[查看 2026-09-04 完整學習紀錄](./study-log/2026/09/2026-09-04.md)
+[查看 2026-09-09 完整學習紀錄](./study-log/2026/09/2026-09-09.md)
 
 <!-- LANGUAGE-STUDY:END -->
