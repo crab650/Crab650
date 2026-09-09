@@ -4,9 +4,9 @@
 
 ## 學習頻率
 
-![學習頻率：2026-08-01 至 2026-09-30](./assets/learning-frequency.svg?v=2026-09-09-7d5fcdfbf3d4)
+![學習頻率：2026-08-01 至 2026-09-30](./assets/learning-frequency.svg?v=2026-09-10-aa0cf90a6546)
 
-🔥 目前連續學習：1 天　🏆 最長連續：17 天　📚 此區間學習：26 天
+🔥 目前連續學習：2 天　🏆 最長連續：17 天　📚 此區間學習：27 天
 
 <!-- LEARNING-HEATMAP:END -->
 
@@ -62,76 +62,76 @@
 
 ## 📚 今日語言學習
 
-> 學習日期：2026-09-09（Asia/Bangkok）
+> 學習日期：2026-09-10（Asia/Bangkok）
 
 | 語言 | 練習次數 | 不同句子 | 答對 | 答錯 | 播音 | 看答案 |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| English | 41 | 34 | 41 | 0 | 108 | 0 |
+| English | 34 | 32 | 33 | 1 | 103 | 0 |
 
 ### English
 
-- **"The sky is so blue today thanks to all the rain yesterday," she cheered.**
-  - 「多虧了昨天的這場大雨，今天的空氣真好，天空真藍啊，」她高興地歡呼。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 7 次
-- **Mrs. Park looked out the window.**
-  - 朴太太看著窗外。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **He drove the exact same Mercedes for Mrs. Park.**
-  - 他開著同一輛賓士車為朴太太載貨。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 8 次
-- **His face looked dead.**
-  - 他的臉上毫無生氣，神色冰冷。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **Father Kim wore old clothes from a donation box.**
-  - 父親金基澤穿著從救濟捐贈箱裡拿來的舊衣服。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
-- **She called the Kim family and told them to come work.**
-  - 她打電話給金家人，叫他們過來幫忙工作。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 6 次
-- **She called all her rich friends.**
-  - 她打電話邀請了她所有的有錢人朋友。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **She wanted to throw a giant birthday party in her yard.**
-  - 她想要在自家庭院裡舉辦一場盛大的生日派對。
-  - 練習 2 次｜答對 2｜答錯 0｜播音 3 次
-- **Up on the hill, Mrs. Park was very happy.**
-  - 在山上的豪宅裡，朴太太非常高興。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
-- **The rain was gone.**
-  - 暴雨已經停了。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **The next morning, the sun was bright and hot.**
-  - 隔天早上，陽光燦爛而炙熱。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **Father Kim closed his eyes.**
-  - 父親金基澤閉上了眼睛。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **"If you have no plan, nothing goes wrong."**
-  - 「只要你沒有計畫，就不會出任何紕漏。」
-  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **"No. Poor people should never have a plan."**
-  - 「沒有。窮人永遠不該有計畫。」
+- **Kevin ran, but the crazy man was like an angry dog.**
+  - 凱文拼命逃跑，但那個瘋子就像一隻狂犬。
   - 練習 1 次｜答對 1｜答錯 0｜播音 4 次
-- **"Did these people plan to sleep on a floor tonight?"**
-  - 「今晚躺在這裡睡地板的這些人，難道有計畫過今晚要睡在體育館嗎？」
-  - 練習 1 次｜答對 1｜答錯 0｜播音 4 次
-- **"No plan at all. No plan."**
-  - 「就是『沒有計畫』。毫無計畫。」
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **Father Kim looked at the ceiling with dead eyes.**
-  - 父親金基澤用空洞死寂的眼神看著天花板。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 4 次
-- **"Kevin, do you know what kind of plan never fails?" he asked.**
-  - 「凱文，你知道什麼樣的計畫永遠不會失敗嗎？」他問。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
-- **Kevin lay next to his dad.**
-  - 凱文躺在爸爸身旁。
+- **He attacked Kevin.**
+  - 他瘋狂地襲擊凱文。
   - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **That night, hundreds of poor people slept on the cold floor of a big gym.**
-  - 那天晚上，數百名災民睡在一間大型體育館冰冷的地板上。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 8 次
-- 另有 14 個句子，請查看完整紀錄。
+- **He jumped out of the shadows.**
+  - 他突然從陰影中跳了出來。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
+- **He wanted blood.**
+  - 他現在要血債血償。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **His wife was dead from the fall.**
+  - 他的妻子因為先前的摔落已經死去了。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **The crazy husband broke his ropes.**
+  - 被綁著的發瘋丈夫掙脫了繩索。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
+- **But he made a mistake.**
+  - 但他犯了一個錯誤。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **Down below, Kevin walked into the dark tunnel.**
+  - 此時在地下，凱文走進了陰暗的通道。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 4 次
+- **Mr. Park whispered, "When Jessica brings the cake, we will jump out and yell. We will scare her, then my son will save her."**
+  - 朴先生低聲說：「等一下潔西卡把蛋糕送出來時，我們就跳出來大叫嚇她，然後我兒子會出面救她。」
+  - 練習 1 次｜答對 1｜答錯 0｜播音 19 次
+- **They hid behind a tree.**
+  - 他們躲在一棵樹後面。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
+- **Mr. Park wore them too.**
+  - 朴先生也戴著。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **Outside on the grass, Father Kim was forced to wear Native American feathers.**
+  - 外面的草地上，父親金基澤被強迫戴上印第安人的羽毛頭飾。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 11 次
+- **He walked toward the basement.**
+  - 他朝著地下室走去。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
+- **He picked up his heavy rock.**
+  - 他拿起了他那塊沉重的奇石。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
+- **His eyes went cold.**
+  - 他的眼神變得冰冷無情。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **He felt a deep, sick fire in his heart.**
+  - 他感到心中有一股壓抑、病態的怒火在燃燒。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
+- **Kevin looked out the window.**
+  - 凱文看著窗外。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **Back at the big house, rich people walked around in nice clothes.**
+  - 在這棟豪宅裡，有錢人們穿著華麗的衣服四處交際。
+  - 練習 3 次｜答對 2｜答錯 1｜播音 8 次
+- **Later that afternoon, the party started.**
+  - 當天下午晚些時候，派對開始了。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
+- **He hated himself.**
+  - 他痛恨他自己。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- 另有 12 個句子，請查看完整紀錄。
 
-[查看 2026-09-09 完整學習紀錄](./study-log/2026/09/2026-09-09.md)
+[查看 2026-09-10 完整學習紀錄](./study-log/2026/09/2026-09-10.md)
 
 <!-- LANGUAGE-STUDY:END -->
