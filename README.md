@@ -4,9 +4,9 @@
 
 ## 學習頻率
 
-![學習頻率：2026-08-01 至 2026-09-30](./assets/learning-frequency.svg?v=2026-09-10-aa0cf90a6546)
+![學習頻率：2026-08-01 至 2026-09-30](./assets/learning-frequency.svg?v=2026-09-11-4a1e16d76e70)
 
-🔥 目前連續學習：2 天　🏆 最長連續：17 天　📚 此區間學習：27 天
+🔥 目前連續學習：3 天　🏆 最長連續：17 天　📚 此區間學習：28 天
 
 <!-- LEARNING-HEATMAP:END -->
 
@@ -62,76 +62,76 @@
 
 ## 📚 今日語言學習
 
-> 學習日期：2026-09-10（Asia/Bangkok）
+> 學習日期：2026-09-11（Asia/Bangkok）
 
 | 語言 | 練習次數 | 不同句子 | 答對 | 答錯 | 播音 | 看答案 |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| English | 34 | 32 | 33 | 1 | 103 | 0 |
+| English | 98 | 82 | 92 | 6 | 208 | 0 |
 
 ### English
 
-- **Kevin ran, but the crazy man was like an angry dog.**
-  - 凱文拼命逃跑，但那個瘋子就像一隻狂犬。
+- **After reading this, Kevin went back to his own dark, wet basement.**
+  - 在讀懂了這段摩斯密碼後，凱文回到了他自己那個陰暗、潮濕的地下室。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 8 次
+- **He pushed the button to talk to his son.**
+  - 他用頭敲擊著開關，試圖向他的兒子傳遞訊息。
+  - 練習 1 次｜答對 0｜答錯 1｜播音 2 次
+- **He was the new ghost, sneaking out at night like a rat to eat scraps.**
+  - 他成了這棟房子裡新的「鬼魂」，每到深夜就像一隻老鼠一樣溜出來，吃剩菜剩飯。
+  - 練習 1 次｜答對 0｜答錯 1｜播音 8 次
+- **Now he lived in the dark bunker.**
+  - 現在，他獨自生活在黑暗的防空洞中。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
+- **He buried the dead housekeeper in the yard.**
+  - 他在自家庭院裡草草埋葬了死去的管家。
+  - 練習 1 次｜答對 0｜答錯 1｜播音 1 次
+- **He went back to the basement.**
+  - 他回到了那棟豪宅的地下秘密防空洞。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
+- **The message told a sad story.**
+  - 那個摩斯密碼閃爍著一個悲傷的故事。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
+- **Suddenly, the light on the stairs blinked.**
+  - 突然，樓梯旁的感應燈有規律地閃爍了起來。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
+- **He watched the house.**
+  - 默默地注視著那棟房子。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **He hid in the trees.**
+  - 他躲在樹叢後面。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **Kevin climbed the hill at night.**
+  - 凱文在夜裡爬上了山頭。
+  - 練習 2 次｜答對 2｜答錯 0｜播音 2 次
+- **The big house was sold to new people from another country.**
+  - 那棟大豪宅被賣給了來自國外的外國家庭。
   - 練習 1 次｜答對 1｜答錯 0｜播音 4 次
-- **He attacked Kevin.**
-  - 他瘋狂地襲擊凱文。
+- **Winter came; snow fell on the city.**
+  - 冬天來臨了，雪花紛紛飄落在城市中。
   - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **He jumped out of the shadows.**
-  - 他突然從陰影中跳了出來。
+- **The police never found Father Kim because the cameras were cut.**
+  - 因為當時所有的監視器線路都被切斷了，警方一直沒能找到父親金基澤。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 5 次
+- **His father was gone.**
+  - 他的父親徹底消失了。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **Later in a courtroom, he looked at a picture of his dead sister Jessica and just laughed a blank, foolish laugh.**
+  - 在後來的法庭上，他看著死去的妹妹潔西卡的照片，只能發出一陣空洞、傻氣的笑聲。
+  - 練習 1 次｜答對 0｜答錯 1｜播音 12 次
+- **Kevin woke up in a hospital; his head was broken.**
+  - 凱文在醫院裡醒來，他的頭部受了重創。
   - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
-- **He wanted blood.**
-  - 他現在要血債血償。
+- **Months passed.**
+  - 幾個月過去了。
   - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **His wife was dead from the fall.**
-  - 他的妻子因為先前的摔落已經死去了。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **The crazy husband broke his ropes.**
-  - 被綁著的發瘋丈夫掙脫了繩索。
+- **He turned around and ran away.**
+  - 他轉過身，跑離了現場。
   - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **But he made a mistake.**
-  - 但他犯了一個錯誤。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **Down below, Kevin walked into the dark tunnel.**
-  - 此時在地下，凱文走進了陰暗的通道。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 4 次
-- **Mr. Park whispered, "When Jessica brings the cake, we will jump out and yell. We will scare her, then my son will save her."**
-  - 朴先生低聲說：「等一下潔西卡把蛋糕送出來時，我們就跳出來大叫嚇她，然後我兒子會出面救她。」
-  - 練習 1 次｜答對 1｜答錯 0｜播音 19 次
-- **They hid behind a tree.**
-  - 他們躲在一棵樹後面。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
-- **Mr. Park wore them too.**
-  - 朴先生也戴著。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **Outside on the grass, Father Kim was forced to wear Native American feathers.**
-  - 外面的草地上，父親金基澤被強迫戴上印第安人的羽毛頭飾。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 11 次
-- **He walked toward the basement.**
-  - 他朝著地下室走去。
+- **Father Kim dropped the knife.**
+  - 父親金基澤丟下了刀。
   - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **He picked up his heavy rock.**
-  - 他拿起了他那塊沉重的奇石。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **His eyes went cold.**
-  - 他的眼神變得冰冷無情。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **He felt a deep, sick fire in his heart.**
-  - 他感到心中有一股壓抑、病態的怒火在燃燒。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
-- **Kevin looked out the window.**
-  - 凱文看著窗外。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **Back at the big house, rich people walked around in nice clothes.**
-  - 在這棟豪宅裡，有錢人們穿著華麗的衣服四處交際。
-  - 練習 3 次｜答對 2｜答錯 1｜播音 8 次
-- **Later that afternoon, the party started.**
-  - 當天下午晚些時候，派對開始了。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **He hated himself.**
-  - 他痛恨他自己。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- 另有 12 個句子，請查看完整紀錄。
+- 另有 62 個句子，請查看完整紀錄。
 
-[查看 2026-09-10 完整學習紀錄](./study-log/2026/09/2026-09-10.md)
+[查看 2026-09-11 完整學習紀錄](./study-log/2026/09/2026-09-11.md)
 
 <!-- LANGUAGE-STUDY:END -->
