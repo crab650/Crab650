@@ -4,9 +4,9 @@
 
 ## 學習頻率
 
-![學習頻率：2026-08-01 至 2026-09-30](./assets/learning-frequency.svg?v=2026-09-11-4a1e16d76e70)
+![學習頻率：2026-08-01 至 2026-09-30](./assets/learning-frequency.svg?v=2026-09-14-97e1f39642d1)
 
-🔥 目前連續學習：3 天　🏆 最長連續：17 天　📚 此區間學習：28 天
+🔥 目前連續學習：1 天　🏆 最長連續：17 天　📚 此區間學習：29 天
 
 <!-- LEARNING-HEATMAP:END -->
 
@@ -62,76 +62,51 @@
 
 ## 📚 今日語言學習
 
-> 學習日期：2026-09-11（Asia/Bangkok）
+> 學習日期：2026-09-14（Asia/Bangkok）
 
 | 語言 | 練習次數 | 不同句子 | 答對 | 答錯 | 播音 | 看答案 |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| English | 98 | 82 | 92 | 6 | 208 | 0 |
+| English | 12 | 12 | 12 | 0 | 38 | 0 |
 
 ### English
 
-- **After reading this, Kevin went back to his own dark, wet basement.**
-  - 在讀懂了這段摩斯密碼後，凱文回到了他自己那個陰暗、潮濕的地下室。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 8 次
-- **He pushed the button to talk to his son.**
-  - 他用頭敲擊著開關，試圖向他的兒子傳遞訊息。
-  - 練習 1 次｜答對 0｜答錯 1｜播音 2 次
-- **He was the new ghost, sneaking out at night like a rat to eat scraps.**
-  - 他成了這棟房子裡新的「鬼魂」，每到深夜就像一隻老鼠一樣溜出來，吃剩菜剩飯。
-  - 練習 1 次｜答對 0｜答錯 1｜播音 8 次
-- **Now he lived in the dark bunker.**
-  - 現在，他獨自生活在黑暗的防空洞中。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **He buried the dead housekeeper in the yard.**
-  - 他在自家庭院裡草草埋葬了死去的管家。
-  - 練習 1 次｜答對 0｜答錯 1｜播音 1 次
-- **He went back to the basement.**
-  - 他回到了那棟豪宅的地下秘密防空洞。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **The message told a sad story.**
-  - 那個摩斯密碼閃爍著一個悲傷的故事。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **Suddenly, the light on the stairs blinked.**
-  - 突然，樓梯旁的感應燈有規律地閃爍了起來。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
-- **He watched the house.**
-  - 默默地注視著那棟房子。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **He hid in the trees.**
-  - 他躲在樹叢後面。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **Kevin climbed the hill at night.**
-  - 凱文在夜裡爬上了山頭。
-  - 練習 2 次｜答對 2｜答錯 0｜播音 2 次
-- **The big house was sold to new people from another country.**
-  - 那棟大豪宅被賣給了來自國外的外國家庭。
+- **The mother was a strong athlete; she threw heavy balls in sports.**
+  - 母親曾是一位強壯的運動員，在運動會上丟過鉛球。
   - 練習 1 次｜答對 1｜答錯 0｜播音 4 次
-- **Winter came; snow fell on the city.**
-  - 冬天來臨了，雪花紛紛飄落在城市中。
+- **Father Kim drove a taxi every day.**
+  - 父親金基澤以前每天開計程車。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **They tried to work very hard in the past.**
+  - 他們過去也曾非常努力地工作。
   - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **The police never found Father Kim because the cameras were cut.**
-  - 因為當時所有的監視器線路都被切斷了，警方一直沒能找到父親金基澤。
+- **They are not lazy people.**
+  - 他們並不是懶惰的人。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **This family was not always like this.**
+  - 這個家庭過去並不總是如此。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
+- **Kevin does not live alone; he lives with his father Kim, his mother, and his sister Jessica.**
+  - 凱文並非獨自生活；他和他的父親金基澤、母親以及妹妹潔西卡住在一起。
   - 練習 1 次｜答對 1｜答錯 0｜播音 5 次
-- **His father was gone.**
-  - 他的父親徹底消失了。
+- **Now he is back home.**
+  - 現在他回到了家裡。
   - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **Later in a courtroom, he looked at a picture of his dead sister Jessica and just laughed a blank, foolish laugh.**
-  - 在後來的法庭上，他看著死去的妹妹潔西卡的照片，只能發出一陣空洞、傻氣的笑聲。
-  - 練習 1 次｜答對 0｜答錯 1｜播音 12 次
-- **Kevin woke up in a hospital; his head was broken.**
-  - 凱文在醫院裡醒來，他的頭部受了重創。
+- **After failing the big college test four times, he became a soldier for a while.**
+  - 在重考了四次大學聯考失敗後，他去當了一陣子的兵。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 14 次
+- **Kevin is not a bad person.**
+  - 凱文不是個壞人。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **If you do not have a job, life is very scary.**
+  - 如果你沒有工作，生活會非常可怕。
   - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
-- **Months passed.**
-  - 幾個月過去了。
+- **You have to pay for food, you have to pay for a house.**
+  - 你必須付錢買食物，也必須付錢租房子。
   - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **He turned around and ran away.**
-  - 他轉過身，跑離了現場。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **Father Kim dropped the knife.**
-  - 父親金基澤丟下了刀。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- 另有 62 個句子，請查看完整紀錄。
+- **Living in a big city in South Korea is hard without money.**
+  - 在韓國的大城市裡，沒有錢是很艱難的。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
 
-[查看 2026-09-11 完整學習紀錄](./study-log/2026/09/2026-09-11.md)
+[查看 2026-09-14 完整學習紀錄](./study-log/2026/09/2026-09-14.md)
 
 <!-- LANGUAGE-STUDY:END -->
