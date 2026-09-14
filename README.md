@@ -4,9 +4,9 @@
 
 ## 學習頻率
 
-![學習頻率：2026-08-01 至 2026-09-30](./assets/learning-frequency.svg?v=2026-09-14-97e1f39642d1)
+![學習頻率：2026-08-01 至 2026-09-30](./assets/learning-frequency.svg?v=2026-09-15-eed3bec94b46)
 
-🔥 目前連續學習：1 天　🏆 最長連續：17 天　📚 此區間學習：29 天
+🔥 目前連續學習：2 天　🏆 最長連續：17 天　📚 此區間學習：30 天
 
 <!-- LEARNING-HEATMAP:END -->
 
@@ -62,51 +62,76 @@
 
 ## 📚 今日語言學習
 
-> 學習日期：2026-09-14（Asia/Bangkok）
+> 學習日期：2026-09-15（Asia/Bangkok）
 
 | 語言 | 練習次數 | 不同句子 | 答對 | 答錯 | 播音 | 看答案 |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| English | 12 | 12 | 12 | 0 | 38 | 0 |
+| English | 36 | 36 | 36 | 0 | 88 | 0 |
 
 ### English
 
-- **The mother was a strong athlete; she threw heavy balls in sports.**
-  - 母親曾是一位強壯的運動員，在運動會上丟過鉛球。
+- **Jessica wanted to shut the window.**
+  - 潔西卡想要關上窗戶。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
+- **White smoke shot out.**
+  - 白色的煙霧噴射了出來。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **A man was driving a truck; he was spraying bug poison.**
+  - 一個男人開著卡車正在噴灑殺蟲劑。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
+- **Suddenly, a loud noise came from the street.**
+  - 突然，街上傳來一陣巨大的噪音。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
+- **Their job was folding boxes for a pizza shop; it paid very little money.**
+  - 他們的工作是幫披薩店折紙盒，這只能賺非常微薄的錢。
   - 練習 1 次｜答對 1｜答錯 0｜播音 4 次
-- **Father Kim drove a taxi every day.**
-  - 父親金基澤以前每天開計程車。
+- **They found a weak signal.**
+  - 他們找到了微弱的訊號。
   - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **They tried to work very hard in the past.**
-  - 他們過去也曾非常努力地工作。
+- **Finally, near the ceiling, the phone beeped.**
+  - 終於，在靠近天花板的地方，手機發出了嗶嗶聲。
   - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **They are not lazy people.**
-  - 他們並不是懶惰的人。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **This family was not always like this.**
-  - 這個家庭過去並不總是如此。
+- **They climbed up next to the toilet.**
+  - 他們爬到了馬桶旁邊。
   - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **Kevin does not live alone; he lives with his father Kim, his mother, and his sister Jessica.**
-  - 凱文並非獨自生活；他和他的父親金基澤、母親以及妹妹潔西卡住在一起。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 5 次
-- **Now he is back home.**
-  - 現在他回到了家裡。
+- **The bathroom smelled like old pipes.**
+  - 浴室裡聞起來有老舊水管的味道。
   - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **After failing the big college test four times, he became a soldier for a while.**
-  - 在重考了四次大學聯考失敗後，他去當了一陣子的兵。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 14 次
-- **Kevin is not a bad person.**
-  - 凱文不是個壞人。
+- **They walked against the walls and into the bathroom.**
+  - 他們貼著牆壁走進浴室。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 4 次
+- **Kevin and Jessica held their phones high.**
+  - 凱文和潔西卡把手機舉得高高的。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
+- **"If you want internet, go up high," he grunted.**
+  - 「如果你想要網路，就往高處去，」他哼了一聲。
   - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **If you do not have a job, life is very scary.**
-  - 如果你沒有工作，生活會非常可怕。
+- **He looked at his son.**
+  - 他看著他的兒子。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **He flicked the bug away while he chewed.**
+  - 他一邊咀嚼一邊把蟲子彈走。
   - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
-- **You have to pay for food, you have to pay for a house.**
-  - 你必須付錢買食物，也必須付錢租房子。
+- **A small bug crawled on the table.**
+  - 一隻小蟲子在桌上爬。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
+- **He ate it.**
+  - 他還是把它吃了。
   - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **Living in a big city in South Korea is hard without money.**
-  - 在韓國的大城市裡，沒有錢是很艱難的。
+- **He picked up a piece of bread; it smelled sour.**
+  - 他 picked 起一片麵包，聞起來酸酸的。
   - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
+- **He was not worried.**
+  - 他一點也不擔心。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **His hair was messy.**
+  - 他的頭髮亂蓬蓬的。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **Father Kim woke up on the floor.**
+  - 父親金基澤在地上醒來。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- 另有 16 個句子，請查看完整紀錄。
 
-[查看 2026-09-14 完整學習紀錄](./study-log/2026/09/2026-09-14.md)
+[查看 2026-09-15 完整學習紀錄](./study-log/2026/09/2026-09-15.md)
 
 <!-- LANGUAGE-STUDY:END -->
