@@ -4,9 +4,9 @@
 
 ## 學習頻率
 
-![學習頻率：2026-08-01 至 2026-09-30](./assets/learning-frequency.svg?v=2026-09-15-eed3bec94b46)
+![學習頻率：2026-08-01 至 2026-09-30](./assets/learning-frequency.svg?v=2026-09-18-825310d1626a)
 
-🔥 目前連續學習：2 天　🏆 最長連續：17 天　📚 此區間學習：30 天
+🔥 目前連續學習：2 天　🏆 最長連續：17 天　📚 此區間學習：32 天
 
 <!-- LEARNING-HEATMAP:END -->
 
@@ -62,76 +62,33 @@
 
 ## 📚 今日語言學習
 
-> 學習日期：2026-09-15（Asia/Bangkok）
+> 學習日期：2026-09-18（Asia/Bangkok）
 
 | 語言 | 練習次數 | 不同句子 | 答對 | 答錯 | 播音 | 看答案 |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| English | 36 | 36 | 36 | 0 | 88 | 0 |
+| English | 6 | 6 | 6 | 0 | 17 | 0 |
 
 ### English
 
-- **Jessica wanted to shut the window.**
-  - 潔西卡想要關上窗戶。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
-- **White smoke shot out.**
-  - 白色的煙霧噴射了出來。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **A man was driving a truck; he was spraying bug poison.**
-  - 一個男人開著卡車正在噴灑殺蟲劑。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
-- **Suddenly, a loud noise came from the street.**
-  - 突然，街上傳來一陣巨大的噪音。
+- **But a drunk man walked up to their window.**
+  - 但一個醉漢走到他們的窗前。
   - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **Their job was folding boxes for a pizza shop; it paid very little money.**
-  - 他們的工作是幫披薩店折紙盒，這只能賺非常微薄的錢。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 4 次
-- **They found a weak signal.**
-  - 他們找到了微弱的訊號。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **Finally, near the ceiling, the phone beeped.**
-  - 終於，在靠近天花板的地方，手機發出了嗶嗶聲。
+- **That night, they wanted to drink cheap beer to celebrate.**
+  - 那天晚上，他們想喝便宜的啤酒來慶祝。
   - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **They climbed up next to the toilet.**
-  - 他們爬到了馬桶旁邊。
+- **Finally, she felt scared and gave them all the cash.**
+  - 最後，她感到害怕，把所有的現金都給了他們。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 5 次
+- **They stood around her, smiling and pushing her closely while they talked.**
+  - 他們圍著她微笑，並在說話時貼近她。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 5 次
+- **They did not let her go.**
+  - 他們不讓她走。
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **The family needed that money to eat.**
+  - 這家人需要那筆錢來買食物。
   - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **The bathroom smelled like old pipes.**
-  - 浴室裡聞起來有老舊水管的味道。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **They walked against the walls and into the bathroom.**
-  - 他們貼著牆壁走進浴室。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 4 次
-- **Kevin and Jessica held their phones high.**
-  - 凱文和潔西卡把手機舉得高高的。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **"If you want internet, go up high," he grunted.**
-  - 「如果你想要網路，就往高處去，」他哼了一聲。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **He looked at his son.**
-  - 他看著他的兒子。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **He flicked the bug away while he chewed.**
-  - 他一邊咀嚼一邊把蟲子彈走。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
-- **A small bug crawled on the table.**
-  - 一隻小蟲子在桌上爬。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **He ate it.**
-  - 他還是把它吃了。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **He picked up a piece of bread; it smelled sour.**
-  - 他 picked 起一片麵包，聞起來酸酸的。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
-- **He was not worried.**
-  - 他一點也不擔心。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **His hair was messy.**
-  - 他的頭髮亂蓬蓬的。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **Father Kim woke up on the floor.**
-  - 父親金基澤在地上醒來。
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- 另有 16 個句子，請查看完整紀錄。
 
-[查看 2026-09-15 完整學習紀錄](./study-log/2026/09/2026-09-15.md)
+[查看 2026-09-18 完整學習紀錄](./study-log/2026/09/2026-09-18.md)
 
 <!-- LANGUAGE-STUDY:END -->
