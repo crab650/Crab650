@@ -4,9 +4,9 @@
 
 ## 學習頻率
 
-![學習頻率：2026-08-01 至 2026-09-30](./assets/learning-frequency.svg?v=2026-09-24-5c8be6fe7b2d)
+![學習頻率：2026-08-01 至 2026-09-30](./assets/learning-frequency.svg?v=2026-09-25-8121b1e99cf1)
 
-🔥 目前連續學習：1 天　🏆 最長連續：17 天　📚 此區間學習：35 天
+🔥 目前連續學習：2 天　🏆 最長連續：17 天　📚 此區間學習：36 天
 
 <!-- LEARNING-HEATMAP:END -->
 
@@ -62,72 +62,45 @@
 
 ## 📚 今日語言學習
 
-> 學習日期：2026-09-24（Asia/Bangkok）
+> 學習日期：2026-09-25（Asia/Bangkok）
 
 | 語言 | 練習次數 | 不同句子 | 答對 | 答錯 | 播音 | 看答案 |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| English | 22 | 19 | 20 | 2 | 101 | 0 |
+| English | 10 | 10 | 10 | 0 | 36 | 0 |
 
 ### English
 
+- **They're just using better systems.**
+  - 他們只是使用了更好的系統。[1]
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **Most memory champions aren't born with extreme ordinary memories.**
+  - 大多數記憶冠軍並非生來就有超乎尋常的記憶力。[1]
+  - 練習 1 次｜答對 1｜答錯 0｜播音 8 次
+- **And before you think this is only for memory champions with superhero brains, no.**
+  - 在你以為這只適用於擁有超級大腦的記憶冠軍之前，不，並非如此。[1]
+  - 練習 1 次｜答對 1｜答錯 0｜播音 5 次
+- **It's called the memory palace.**
+  - 它被稱為「記憶宮殿」。[1]
+  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
+- **Good, because your brain loves ridiculous.**
+  - 很好，因為你的大腦就喜歡荒謬的事物。[1]
+  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
+- **Now, imagine using that same house to remember your biology textbook sounds ridiculous.**
+  - 現在，想像用同一棟房子來記憶你的生物教科書，聽起來很荒謬。[1]
+  - 練習 1 次｜答對 1｜答錯 0｜播音 9 次
+- **You know where every room is without thinking.**
+  - 你不用思考就知道每個房間在哪裡。[1]
+  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
+- **The kitchen smells like memories.**
+  - 廚房散發著回憶的味道。[1]
+  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
+- **The couch is still in the living room.**
+  - 沙發依然在客廳裡。[1]
+  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
 - **The front door is exactly where you remember it.**
   - 大門就在你記憶中的位置。[1]
   - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
-- **Imagine walking into your childhood home.**
-  - 想像一下走進你小時候的家。[1]
-  - 練習 1 次｜答對 1｜答錯 0｜播音 4 次
-- **Because your memory isn't broken, your storage system is.**
-  - 因為你的記憶並沒有壞掉，而是你的儲存系統有問題。[1]
-  - 練習 1 次｜答對 1｜答錯 0｜播音 4 次
-- **If you've ever said, "I have a terrible memory," this video is probably about to prove you wrong.**
-  - 如果你曾說過「我的記憶力很差」，這部影片大概即將證明你錯了。[1]
-  - 練習 1 次｜答對 1｜答錯 0｜播音 9 次
-- **Give you one idea that could completely change how you remember things.**
-  - 給你不一樣的想法，這可能會徹底改變你記憶事物的方式。[1]
-  - 練習 1 次｜答對 1｜答錯 0｜播音 4 次
-- **I'll know who's actually training their memory.**
-  - 我會知道誰是真的在訓練自己的記憶力。[1]
-  - 練習 1 次｜答對 1｜答錯 0｜播音 6 次
-- **Comment palace if you're going to build one tonight.**
-  - 如果你今晚打算建立一個記憶宮殿，請留言「palace」。[1]
-  - 練習 1 次｜答對 1｜答錯 0｜播音 4 次
-- **You might discover your memory is far better than you've ever believed.**
-  - 你可能會發現，你的記憶力遠比你想像的要好得多。[1]
-  - 練習 1 次｜答對 1｜答錯 0｜播音 7 次
-- **Walk through it in your mind and see how many fixed locations you can identify without looking.**
-  - 在腦海中走過一遍，看看在不看的情況下你能指認出多少固定位置。[1]
-  - 練習 2 次｜答對 2｜答錯 0｜播音 13 次
-- **Your bedroom, your apartment, or your childhood home.**
-  - 你的臥室、你的公寓，或是你小時候的家。[1]
-  - 練習 1 次｜答對 1｜答錯 0｜播音 2 次
-- **Pick one place you know by heart.**
-  - 選擇一個你瞭如指掌的地方。[1]
-  - 練習 1 次｜答對 1｜答錯 0｜播音 4 次
-- **Tonight, try this.**
-  - 今晚，試試這個方法。[1]
-  - 練習 1 次｜答對 1｜答錯 0｜播音 1 次
-- **The problem was trying to store information without giving it a place to live.**
-  - 問題在於試圖儲存資訊，卻沒有給它一個居所。[1]
-  - 練習 1 次｜答對 1｜答錯 0｜播音 7 次
-- **The problem was never your memory.**
-  - 問題從來都不是你的記憶力。[1]
-  - 練習 1 次｜答對 1｜答錯 0｜播音 5 次
-- **That's why it feels almost unfair.**
-  - 這就是為什麼它感覺起來幾乎不太公平。[1]
-  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
-- **Instead of storing facts in empty space, you place them somewhere your brain already knows.**
-  - 與其把事實儲存在虛無的空間裡，你把它們放在你大腦已經熟悉的地方。[1]
-  - 練習 2 次｜答對 1｜答錯 1｜播音 12 次
-- **The memory palace gives every piece of information a home.**
-  - 記憶宮殿給了每一項資訊一個家。[1]
-  - 練習 1 次｜答對 1｜答錯 0｜播音 6 次
-- **Information with an address gets remembered.**
-  - 有地址的資訊會被記住。[1]
-  - 練習 1 次｜答對 1｜答錯 0｜播音 3 次
-- **Information without an address gets forgotten.**
-  - 沒有地址的資訊會被忘記。[1]
-  - 練習 2 次｜答對 1｜答錯 1｜播音 4 次
 
-[查看 2026-09-24 完整學習紀錄](./study-log/2026/09/2026-09-24.md)
+[查看 2026-09-25 完整學習紀錄](./study-log/2026/09/2026-09-25.md)
 
 <!-- LANGUAGE-STUDY:END -->
